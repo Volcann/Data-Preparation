@@ -1,6 +1,11 @@
-# 📊 Data-Preparation-Toolkit
+## 📊 Data-Preparation-Toolkit
 
-Welcome to **DataCraftTools**, your go-to guide for essential data preparation in Python! 🐍 This repository provides easy-to-follow examples and code for data cleaning, transformation, feature engineering, and exploratory data analysis (EDA) using:
+Welcome to **DataCraftTools**, your go-to guide for essential data preparation in Python! 🐍 This repository provides easy-to-follow examples and code for cleaning, transforming, and organizing datasets to ensure data quality and enhance model performance. 
+
+### Techniques Covered
+- **Handling Missing Values**: Strategies to identify and fill or drop missing data.
+- **Feature Scaling**: Methods to standardize and normalize features for improved analysis.
+- **Encoding Categorical Variables**: Techniques to convert categorical data into numerical formats suitable for machine learning models.
 
 ## Tools 🔧 
 - **`Pandas`**: Your Swiss Army knife for data manipulation and analysis.
