@@ -1,0 +1,892 @@
+Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,Sure Name,Name,FamilySize,AgeGroup,FamilySizeGroup,FarePerFamilyMember
+0,3,male,22,1,0,7.25,S,Mr. Owen Harris,Braund,2,Adult,Small Family,3.625
+1,1,female,38,1,0,71.2833,C,Mrs. John Bradley,Cumings,2,Adult,Small Family,35.64165
+1,3,female,26,0,0,7.925,S,Miss. Laina,Heikkinen,1,Adult,Single,7.925
+1,1,female,35,1,0,53.1,S,Mrs. Jacques Heath,Futrelle,2,Adult,Small Family,26.55
+0,3,male,35,0,0,8.05,S,Mr. William Henry,Allen,1,Adult,Single,8.05
+0,3,male,28,0,0,8.4583,Q,Mr. James,Moran,1,Adult,Single,8.4583
+0,1,male,54,0,0,51.8625,S,Mr. Timothy J,McCarthy,1,Middle-Aged,Single,51.8625
+0,3,male,2,3,1,21.075,S,Master. Gosta Leonard,Palsson,5,Child,Large Family,4.215
+1,3,female,27,0,2,11.1333,S,Mrs. Oscar W,Johnson,3,Adult,Small Family,3.7111
+1,2,female,14,1,0,30.0708,C,Mrs. Nicholas,Nasser,2,Teen,Small Family,15.0354
+1,3,female,4,1,1,16.7,S,Miss. Marguerite Rut,Sandstrom,3,Child,Small Family,5.566666666666666
+1,1,female,58,0,0,26.55,S,Miss. Elizabeth,Bonnell,1,Middle-Aged,Single,26.55
+0,3,male,20,0,0,8.05,S,Mr. William Henry,Saundercock,1,Teen,Single,8.05
+0,3,male,39,1,5,31.275,S,Mr. Anders Johan,Andersson,7,Adult,Large Family,4.4678571428571425
+0,3,female,14,0,0,7.8542,S,Miss. Hulda Amanda Adolfina,Vestrom,1,Teen,Single,7.8542
+1,2,female,55,0,0,16.0,S,,,1,Middle-Aged,Single,16.0
+0,3,male,2,4,1,29.125,Q,Master. Eugene,Rice,6,Child,Large Family,4.854166666666667
+1,2,male,28,0,0,13.0,S,Mr. Charles Eugene,Williams,1,Adult,Single,13.0
+0,3,female,31,1,0,18.0,S,Mrs. Julius,Vander Planke,2,Adult,Small Family,9.0
+1,3,female,28,0,0,7.225,C,Mrs. Fatima,Masselmani,1,Adult,Single,7.225
+0,2,male,35,0,0,26.0,S,Mr. Joseph J,Fynney,1,Adult,Single,26.0
+1,2,male,34,0,0,13.0,S,Mr. Lawrence,Beesley,1,Adult,Single,13.0
+1,3,female,15,0,0,8.0292,Q,"Miss. Anna ""Annie""",McGowan,1,Teen,Single,8.0292
+1,1,male,28,0,0,35.5,S,Mr. William Thompson,Sloper,1,Adult,Single,35.5
+0,3,female,8,3,1,21.075,S,Miss. Torborg Danira,Palsson,5,Child,Large Family,4.215
+1,3,female,38,1,5,31.3875,S,Mrs. Carl Oscar,Asplund,7,Adult,Large Family,4.483928571428572
+0,3,male,28,0,0,7.225,C,Mr. Farred Chehab,Emir,1,Adult,Single,7.225
+0,1,male,19,3,2,263.0,S,Mr. Charles Alexander,Fortune,6,Teen,Large Family,43.833333333333336
+1,3,female,28,0,0,7.8792,Q,"Miss. Ellen ""Nellie""",O'Dwyer,1,Adult,Single,7.8792
+0,3,male,28,0,0,7.8958,S,Mr. Lalio,Todoroff,1,Adult,Single,7.8958
+0,1,male,40,0,0,27.7208,C,Don. Manuel E,Uruchurtu,1,Adult,Single,27.7208
+1,1,female,28,1,0,146.5208,C,Mrs. William Augustus,Spencer,2,Adult,Small Family,73.2604
+1,3,female,28,0,0,7.75,Q,Miss. Mary Agatha,Glynn,1,Adult,Single,7.75
+0,2,male,66,0,0,10.5,S,Mr. Edward H,Wheadon,1,Senior,Single,10.5
+0,1,male,28,1,0,82.1708,C,Mr. Edgar Joseph,Meyer,2,Adult,Small Family,41.0854
+0,1,male,42,1,0,52.0,S,Mr. Alexander Oskar,Holverson,2,Middle-Aged,Small Family,26.0
+1,3,male,28,0,0,7.2292,C,Mr. Hanna,Mamee,1,Adult,Single,7.2292
+0,3,male,21,0,0,8.05,S,Mr. Ernest Charles,Cann,1,Adult,Single,8.05
+0,3,female,18,2,0,18.0,S,Miss. Augusta Maria,Vander Planke,3,Teen,Small Family,6.0
+1,3,female,14,1,0,11.2417,C,Miss. Jamila,Nicola-Yarred,2,Teen,Small Family,5.62085
+0,3,female,40,1,0,9.475,S,Mrs. Johan,Ahlin,2,Adult,Small Family,4.7375
+0,2,female,27,1,0,21.0,S,Mrs. William John Robert,Turpin,2,Adult,Small Family,10.5
+0,3,male,28,0,0,7.8958,C,Mr. Theodor,Kraeff,1,Adult,Single,7.8958
+1,2,female,3,1,2,41.5792,C,Miss. Simonne Marie Anne Andree,Laroche,4,Child,Large Family,10.3948
+1,3,female,19,0,0,7.8792,Q,Miss. Margaret Delia,Devaney,1,Teen,Single,7.8792
+0,3,male,28,0,0,8.05,S,Mr. William John,Rogers,1,Adult,Single,8.05
+0,3,male,28,1,0,15.5,Q,Mr. Denis,Lennon,2,Adult,Small Family,7.75
+1,3,female,28,0,0,7.75,Q,Miss. Bridget,O'Driscoll,1,Adult,Single,7.75
+0,3,male,28,2,0,21.6792,C,Mr. Youssef,Samaan,3,Adult,Small Family,7.226400000000001
+0,3,female,18,1,0,17.8,S,Mrs. Josef,Arnold-Franchi,2,Teen,Small Family,8.9
+0,3,male,7,4,1,39.6875,S,Master. Juha Niilo,Panula,6,Child,Large Family,6.614583333333333
+0,3,male,21,0,0,7.8,S,Mr. Richard Cater,Nosworthy,1,Adult,Single,7.8
+1,1,female,49,1,0,76.7292,C,Mrs. Henry Sleeper,Harper,2,Middle-Aged,Small Family,38.3646
+1,2,female,29,1,0,26.0,S,Mrs. Lizzie,Faunthorpe,2,Adult,Small Family,13.0
+0,1,male,65,0,1,61.9792,C,Mr. Engelhart Cornelius,Ostby,2,Senior,Small Family,30.9896
+1,1,male,28,0,0,35.5,S,Mr. Hugh,Woolner,1,Adult,Single,35.5
+1,2,female,21,0,0,10.5,S,Miss. Emily,Rugg,1,Adult,Single,10.5
+0,3,male,28,0,0,7.2292,C,Mr. Mansouer,Novel,1,Adult,Single,7.2292
+1,2,female,5,1,2,27.75,S,Miss. Constance Mirium,West,4,Child,Large Family,6.9375
+0,3,male,11,5,2,46.9,S,Master. William Frederick,Goodwin,8,Child,Large Family,5.8625
+0,3,male,22,0,0,7.2292,C,Mr. Orsen,Sirayanian,1,Adult,Single,7.2292
+1,1,female,38,0,0,80.0,S,Miss. Amelie,Icard,1,Adult,Single,80.0
+0,1,male,45,1,0,83.475,S,Mr. Henry Birkhardt,Harris,2,Middle-Aged,Small Family,41.7375
+0,3,male,4,3,2,27.9,S,Master. Harald,Skoog,6,Child,Large Family,4.6499999999999995
+0,1,male,28,0,0,27.7208,C,Mr. Albert A,Stewart,1,Adult,Single,27.7208
+1,3,male,28,1,1,15.2458,C,Master. Gerios,Moubarek,3,Adult,Small Family,5.081933333333333
+1,2,female,29,0,0,10.5,S,Mrs.,Nye,1,Adult,Single,10.5
+0,3,male,19,0,0,8.1583,S,Mr. Ernest James,Crease,1,Teen,Single,8.1583
+1,3,female,17,4,2,7.925,S,Miss. Erna Alexandra,Andersson,7,Teen,Large Family,1.1321428571428571
+0,3,male,26,2,0,8.6625,S,Mr. Vincenz,Kink,3,Adult,Small Family,2.8874999999999997
+0,2,male,32,0,0,10.5,S,Mr. Stephen Curnow,Jenkin,1,Adult,Single,10.5
+0,3,female,16,5,2,46.9,S,Miss. Lillian Amy,Goodwin,8,Teen,Large Family,5.8625
+0,2,male,21,0,0,73.5,S,Mr. Ambrose Jr,Hood,1,Adult,Single,73.5
+0,3,male,26,1,0,14.4542,C,Mr. Apostolos,Chronopoulos,2,Adult,Small Family,7.2271
+1,3,male,32,0,0,56.4958,S,Mr. Lee,Bing,1,Adult,Single,56.4958
+0,3,male,25,0,0,7.65,S,Mr. Sigurd Hansen,Moen,1,Adult,Single,7.65
+0,3,male,28,0,0,7.8958,S,Mr. Ivan,Staneff,1,Adult,Single,7.8958
+0,3,male,28,0,0,8.05,S,Mr. Rahamin Haim,Moutal,1,Adult,Single,8.05
+1,2,male,0,0,2,29.0,S,Master. Alden Gates,Caldwell,3,,Small Family,9.666666666666666
+1,3,female,30,0,0,12.475,S,Miss. Elizabeth,Dowdell,1,Adult,Single,12.475
+0,3,male,22,0,0,9.0,S,Mr. Achille,Waelens,1,Adult,Single,9.0
+1,3,male,29,0,0,9.5,S,Mr. Jan Baptist,Sheerlinck,1,Adult,Single,9.5
+1,3,female,28,0,0,7.7875,Q,Miss. Brigdet Delia,McDermott,1,Adult,Single,7.7875
+0,1,male,28,0,0,47.1,S,Mr. Francisco M,Carrau,1,Adult,Single,47.1
+1,2,female,17,0,0,10.5,S,Miss. Bertha,Ilett,1,Teen,Single,10.5
+1,3,female,33,3,0,15.85,S,Mrs. Karl Alfred,Backstrom,4,Adult,Large Family,3.9625
+0,3,male,16,1,3,34.375,S,Mr. William Neal,Ford,5,Teen,Large Family,6.875
+0,3,male,28,0,0,8.05,S,Mr. Selman Francis,Slocovski,1,Adult,Single,8.05
+1,1,female,23,3,2,263.0,S,Miss. Mabel Helen,Fortune,6,Adult,Large Family,43.833333333333336
+0,3,male,24,0,0,8.05,S,Mr. Francesco,Celotti,1,Adult,Single,8.05
+0,3,male,29,0,0,8.05,S,Mr. Emil,Christmann,1,Adult,Single,8.05
+0,3,male,20,0,0,7.8542,S,Mr. Paul Edvin,Andreasson,1,Teen,Single,7.8542
+0,1,male,46,1,0,61.175,S,Mr. Herbert Fuller,Chaffee,2,Middle-Aged,Small Family,30.5875
+0,3,male,26,1,2,20.575,S,Mr. Bertram Frank,Dean,4,Adult,Large Family,5.14375
+0,3,male,59,0,0,7.25,S,Mr. Daniel,Coxon,1,Middle-Aged,Single,7.25
+0,3,male,28,0,0,8.05,S,Mr. Charles Joseph,Shorney,1,Adult,Single,8.05
+0,1,male,71,0,0,34.6542,C,Mr. George B,Goldschmidt,1,Senior,Single,34.6542
+1,1,male,23,0,1,63.3583,C,Mr. William Bertram,Greenfield,2,Adult,Small Family,31.67915
+1,2,female,34,0,1,23.0,S,Mrs. John T,Doling,2,Adult,Small Family,11.5
+0,2,male,34,1,0,26.0,S,Mr. Sinai,Kantor,2,Adult,Small Family,13.0
+0,3,female,28,0,0,7.8958,S,Miss. Matilda,Petranec,1,Adult,Single,7.8958
+0,3,male,28,0,0,7.8958,S,Mr. Pastcho,Petroff,1,Adult,Single,7.8958
+0,1,male,21,0,1,77.2875,S,Mr. Richard Frasar,White,2,Adult,Small Family,38.64375
+0,3,male,33,0,0,8.6542,S,Mr. Gustaf Joel,Johansson,1,Adult,Single,8.6542
+0,3,male,37,2,0,7.925,S,Mr. Anders Vilhelm,Gustafsson,3,Adult,Small Family,2.6416666666666666
+0,3,male,28,0,0,7.8958,S,Mr. Stoytcho,Mionoff,1,Adult,Single,7.8958
+1,3,female,21,0,0,7.65,S,Miss. Anna Kristine,Salkjelsvik,1,Adult,Single,7.65
+1,3,male,28,0,0,7.775,S,Mr. Albert Johan,Moss,1,Adult,Single,7.775
+0,3,male,38,0,0,7.8958,S,Mr. Tido,Rekic,1,Adult,Single,7.8958
+1,3,female,28,1,0,24.15,Q,Miss. Bertha,Moran,2,Adult,Small Family,12.075
+0,1,male,47,0,0,52.0,S,Mr. Walter Chamberlain,Porter,1,Middle-Aged,Single,52.0
+0,3,female,14,1,0,14.4542,C,Miss. Hileni,Zabour,2,Teen,Small Family,7.2271
+0,3,male,22,0,0,8.05,S,Mr. David John,Barton,1,Adult,Single,8.05
+0,3,female,20,1,0,9.825,S,Miss. Katriina,Jussila,2,Teen,Small Family,4.9125
+0,3,female,17,0,0,14.4583,C,Miss. Malake,Attalah,1,Teen,Single,14.4583
+0,3,male,21,0,0,7.925,S,Mr. Edvard,Pekoniemi,1,Adult,Single,7.925
+0,3,male,70,0,0,7.75,Q,Mr. Patrick,Connors,1,Senior,Single,7.75
+0,2,male,29,1,0,21.0,S,Mr. William John Robert,Turpin,2,Adult,Small Family,10.5
+0,1,male,24,0,1,247.5208,C,Mr. Quigg Edmond,Baxter,2,Adult,Small Family,123.7604
+0,3,female,2,4,2,31.275,S,Miss. Ellis Anna Maria,Andersson,7,Child,Large Family,4.4678571428571425
+0,2,male,21,2,0,73.5,S,Mr. Stanley George,Hickman,3,Adult,Small Family,24.5
+0,3,male,28,0,0,8.05,S,Mr. Leonard Charles,Moore,1,Adult,Single,8.05
+0,2,male,32,1,0,30.0708,C,Mr. Nicholas,Nasser,2,Adult,Small Family,15.0354
+1,2,female,32,0,0,13.0,S,Miss. Susan,Webber,1,Adult,Single,13.0
+0,1,male,54,0,1,77.2875,S,Mr. Percival Wayland,White,2,Middle-Aged,Small Family,38.64375
+1,3,male,12,1,0,11.2417,C,Master. Elias,Nicola-Yarred,2,Child,Small Family,5.62085
+0,3,male,28,0,0,7.75,Q,Mr. Martin,McMahon,1,Adult,Single,7.75
+1,3,male,24,0,0,7.1417,S,Mr. Fridtjof Arne,Madsen,1,Adult,Single,7.1417
+1,3,female,28,1,1,22.3583,C,Miss. Anna,Peter,3,Adult,Small Family,7.452766666666666
+0,3,male,45,0,0,6.975,S,Mr. Johan,Ekstrom,1,Middle-Aged,Single,6.975
+0,3,male,33,0,0,7.8958,C,Mr. Jozef,Drazenoic,1,Adult,Single,7.8958
+0,3,male,20,0,0,7.05,S,Mr. Domingos Fernandeo,Coelho,1,Teen,Single,7.05
+0,3,female,47,1,0,14.5,S,Mrs. Alexander A,Robins,2,Middle-Aged,Small Family,7.25
+1,2,female,29,1,0,26.0,S,Mrs. Leopold,Weisz,2,Adult,Small Family,13.0
+0,2,male,25,0,0,13.0,S,Mr. Samuel James Hayden,Sobey,1,Adult,Single,13.0
+0,2,male,23,0,0,15.0458,C,Mr. Emile,Richard,1,Adult,Single,15.0458
+1,1,female,19,0,2,26.2833,S,Miss. Helen Monypeny,Newsom,3,Teen,Small Family,8.7611
+0,1,male,37,1,0,53.1,S,Mr. Jacques Heath,Futrelle,2,Adult,Small Family,26.55
+0,3,male,16,0,0,9.2167,S,Mr. Olaf Elon,Osen,1,Teen,Single,9.2167
+0,1,male,24,0,0,79.2,C,Mr. Victor,Giglio,1,Adult,Single,79.2
+0,3,female,28,0,2,15.2458,C,Mrs. Joseph,Boulos,3,Adult,Small Family,5.081933333333333
+1,3,female,22,0,0,7.75,S,Miss. Anna Sofia,Nysten,1,Adult,Single,7.75
+1,3,female,24,1,0,15.85,S,Mrs. Pekka Pietari,Hakkarainen,2,Adult,Small Family,7.925
+0,3,male,19,0,0,6.75,Q,Mr. Jeremiah,Burke,1,Teen,Single,6.75
+0,2,male,18,0,0,11.5,S,Mr. Edgardo Samuel,Andrew,1,Teen,Single,11.5
+0,2,male,19,1,1,36.75,S,Mr. Joseph Charles,Nicholls,3,Teen,Small Family,12.25
+1,3,male,27,0,0,7.7958,S,Mr. August Edvard,Andersson,1,Adult,Single,7.7958
+0,3,female,9,2,2,34.375,S,"Miss. Robina Maggie ""Ruby""",Ford,5,Child,Large Family,6.875
+0,2,male,36,0,2,26.0,S,Mr. Michel,Navratil,3,Adult,Small Family,8.666666666666666
+0,2,male,42,0,0,13.0,S,Rev. Thomas Roussel Davids,Byles,1,Middle-Aged,Single,13.0
+0,2,male,51,0,0,12.525,S,Rev. Robert James,Bateman,1,Middle-Aged,Single,12.525
+1,1,female,22,1,0,66.6,S,Mrs. Thomas,Pears,2,Adult,Small Family,33.3
+0,3,male,55,0,0,8.05,S,Mr. Alfonzo,Meo,1,Middle-Aged,Single,8.05
+0,3,male,40,0,2,14.5,S,Mr. Austin Blyler,van Billiard,3,Adult,Small Family,4.833333333333333
+0,3,male,28,0,0,7.3125,S,Mr. Ole Martin,Olsen,1,Adult,Single,7.3125
+0,1,male,51,0,1,61.3792,C,Mr. Charles Duane,Williams,2,Middle-Aged,Small Family,30.6896
+1,3,female,16,0,0,7.7333,Q,"Miss. Katherine ""Katie""",Gilnagh,1,Teen,Single,7.7333
+0,3,male,30,0,0,8.05,S,Mr. Harry,Corn,1,Adult,Single,8.05
+0,3,male,28,0,0,8.6625,S,Mr. Mile,Smiljanic,1,Adult,Single,8.6625
+0,3,male,28,8,2,69.55,S,Master. Thomas Henry,Sage,11,Adult,Large Family,6.322727272727272
+0,3,male,44,0,1,16.1,S,Mr. John Hatfield,Cribb,2,Middle-Aged,Small Family,8.05
+1,2,female,40,0,0,15.75,S,Mrs. James,Watt,1,Adult,Single,15.75
+0,3,male,26,0,0,7.775,S,Mr. John Viktor,Bengtsson,1,Adult,Single,7.775
+0,3,male,17,0,0,8.6625,S,Mr. Jovo,Calic,1,Teen,Single,8.6625
+0,3,male,1,4,1,39.6875,S,Master. Eino Viljami,Panula,6,Child,Large Family,6.614583333333333
+1,3,male,9,0,2,20.525,S,"Master. Frank John William ""Frankie""",Goldsmith,3,Child,Small Family,6.841666666666666
+1,1,female,28,0,1,55.0,S,Mrs.,Chibnall,2,Adult,Small Family,27.5
+0,3,female,45,1,4,27.9,S,Mrs. William,Skoog,6,Middle-Aged,Large Family,4.6499999999999995
+0,1,male,28,0,0,25.925,S,Mr. John D,Baumann,1,Adult,Single,25.925
+0,3,male,28,0,0,56.4958,S,Mr. Lee,Ling,1,Adult,Single,56.4958
+0,1,male,61,0,0,33.5,S,Mr. Wyckoff,Van der hoef,1,Senior,Single,33.5
+0,3,male,4,4,1,29.125,Q,Master. Arthur,Rice,6,Child,Large Family,4.854166666666667
+1,3,female,1,1,1,11.1333,S,Miss. Eleanor Ileen,Johnson,3,Child,Small Family,3.7111
+0,3,male,21,0,0,7.925,S,Mr. Antti Wilhelm,Sivola,1,Adult,Single,7.925
+0,1,male,56,0,0,30.6958,C,Mr. James Clinch,Smith,1,Middle-Aged,Single,30.6958
+0,3,male,18,1,1,7.8542,S,Mr. Klas Albin,Klasen,3,Teen,Small Family,2.6180666666666665
+0,3,male,28,3,1,25.4667,S,Master. Henry Forbes,Lefebre,5,Adult,Large Family,5.0933399999999995
+0,1,female,50,0,0,28.7125,C,Miss. Ann Elizabeth,Isham,1,Middle-Aged,Single,28.7125
+0,2,male,30,0,0,13.0,S,Mr. Reginald,Hale,1,Adult,Single,13.0
+0,3,male,36,0,0,14.4542,S,Mr. Lionel,Leonard,1,Adult,Single,14.4542
+0,3,female,28,8,2,69.55,S,Miss. Constance Gladys,Sage,11,Adult,Large Family,6.322727272727272
+0,2,male,28,0,0,15.05,C,Mr. Rene,Pernot,1,Adult,Single,15.05
+0,3,male,9,4,2,31.3875,S,Master. Clarence Gustaf Hugo,Asplund,7,Child,Large Family,4.483928571428572
+1,2,male,1,2,1,39.0,S,Master. Richard F,Becker,4,Child,Large Family,9.75
+1,3,female,4,0,2,22.025,S,Miss. Luise Gretchen,Kink-Heilmann,3,Child,Small Family,7.341666666666666
+0,1,male,28,0,0,50.0,S,Mr. Hugh Roscoe,Rood,1,Adult,Single,50.0
+1,3,female,28,1,0,15.5,Q,Mrs. Thomas,O'Brien,2,Adult,Small Family,7.75
+1,1,male,45,0,0,26.55,S,Mr. Charles Hallace,Romaine,1,Middle-Aged,Single,26.55
+0,3,male,40,1,1,15.5,Q,Mr. John,Bourke,3,Adult,Small Family,5.166666666666667
+0,3,male,36,0,0,7.8958,S,Mr. Stjepan,Turcin,1,Adult,Single,7.8958
+1,2,female,32,0,0,13.0,S,Mrs.,Pinsky,1,Adult,Single,13.0
+0,2,male,19,0,0,13.0,S,Mr. William,Carbines,1,Teen,Single,13.0
+1,3,female,19,1,0,7.8542,S,Miss. Carla Christine Nielsine,Andersen-Jensen,2,Teen,Small Family,3.9271
+1,2,male,3,1,1,26.0,S,Master. Michel M,Navratil,3,Child,Small Family,8.666666666666666
+1,1,female,44,0,0,27.7208,C,Mrs. James Joseph,Brown,1,Middle-Aged,Single,27.7208
+1,1,female,58,0,0,146.5208,C,Miss. Elise,Lurette,1,Middle-Aged,Single,146.5208
+0,3,male,28,0,0,7.75,Q,Mr. Robert,Mernagh,1,Adult,Single,7.75
+0,3,male,42,0,1,8.4042,S,Mr. Karl Siegwart Andreas,Olsen,2,Middle-Aged,Small Family,4.2021
+1,3,female,28,0,0,7.75,Q,"Miss. Margaret ""Maggie""",Madigan,1,Adult,Single,7.75
+0,2,female,24,0,0,13.0,S,Miss. Henriette,Yrois,1,Adult,Single,13.0
+0,3,male,28,0,0,9.5,S,Mr. Nestor Cyriel,Vande Walle,1,Adult,Single,9.5
+0,3,male,28,8,2,69.55,S,Mr. Frederick,Sage,11,Adult,Large Family,6.322727272727272
+0,3,male,34,0,0,6.4958,S,Mr. Jakob Alfred,Johanson,1,Adult,Single,6.4958
+0,3,male,45,0,0,7.225,C,Mr. Gerious,Youseff,1,Middle-Aged,Single,7.225
+1,3,male,18,0,0,8.05,S,"Mr. Gurshon ""Gus""",Cohen,1,Teen,Single,8.05
+0,3,female,2,0,1,10.4625,S,Miss. Telma Matilda,Strom,2,Child,Small Family,5.23125
+0,3,male,32,1,0,15.85,S,Mr. Karl Alfred,Backstrom,2,Adult,Small Family,7.925
+1,3,male,26,0,0,18.7875,C,Mr. Nassef Cassem,Albimona,1,Adult,Single,18.7875
+1,3,female,16,0,0,7.75,Q,"Miss. Helen ""Ellen""",Carr,1,Teen,Single,7.75
+1,1,male,40,0,0,31.0,C,Mr. Henry,Blank,1,Adult,Single,31.0
+0,3,male,24,0,0,7.05,S,Mr. Ahmed,Ali,1,Adult,Single,7.05
+1,2,female,35,0,0,21.0,S,Miss. Clear Annie,Cameron,1,Adult,Single,21.0
+0,3,male,22,0,0,7.25,S,Mr. John Henry,Perkin,1,Adult,Single,7.25
+0,2,male,30,0,0,13.0,S,Mr. Hans Kristensen,Givard,1,Adult,Single,13.0
+0,3,male,28,1,0,7.75,Q,Mr. Philip,Kiernan,2,Adult,Small Family,3.875
+1,1,female,31,1,0,113.275,C,Miss. Madeleine,Newell,2,Adult,Small Family,56.6375
+1,3,female,27,0,0,7.925,S,Miss. Eliina,Honkanen,1,Adult,Single,7.925
+0,2,male,42,1,0,27.0,S,Mr. Sidney Samuel,Jacobsohn,2,Middle-Aged,Small Family,13.5
+1,1,female,32,0,0,76.2917,C,Miss. Albina,Bazzani,1,Adult,Single,76.2917
+0,2,male,30,0,0,10.5,S,Mr. Walter,Harris,1,Adult,Single,10.5
+1,3,male,16,0,0,8.05,S,Mr. Victor Francis,Sunderland,1,Teen,Single,8.05
+0,2,male,27,0,0,13.0,S,Mr. James H,Bracken,1,Adult,Single,13.0
+0,3,male,51,0,0,8.05,S,Mr. George Henry,Green,1,Middle-Aged,Single,8.05
+0,3,male,28,0,0,7.8958,S,Mr. Christo,Nenkoff,1,Adult,Single,7.8958
+1,1,male,38,1,0,90.0,S,Mr. Frederick Maxfield,Hoyt,2,Adult,Small Family,45.0
+0,3,male,22,0,0,9.35,S,Mr. Karl Ivar Sven,Berglund,1,Adult,Single,9.35
+1,2,male,19,0,0,10.5,S,Mr. William John,Mellors,1,Teen,Single,10.5
+0,3,male,20,0,0,7.25,S,Mr. John Hall,Lovell,1,Teen,Single,7.25
+0,2,male,18,0,0,13.0,S,Mr. Arne Jonas,Fahlstrom,1,Teen,Single,13.0
+0,3,female,28,3,1,25.4667,S,Miss. Mathilde,Lefebre,5,Adult,Large Family,5.0933399999999995
+1,1,female,35,1,0,83.475,S,Mrs. Henry Birkhardt,Harris,2,Adult,Small Family,41.7375
+0,3,male,29,0,0,7.775,S,Mr. Bengt Edvin,Larsson,1,Adult,Single,7.775
+0,2,male,59,0,0,13.5,S,Mr. Ernst Adolf,Sjostedt,1,Middle-Aged,Single,13.5
+1,3,female,5,4,2,31.3875,S,Miss. Lillian Gertrud,Asplund,7,Child,Large Family,4.483928571428572
+0,2,male,24,0,0,10.5,S,Mr. Robert William Norman,Leyson,1,Adult,Single,10.5
+0,3,female,28,0,0,7.55,S,Miss. Alice Phoebe,Harknett,1,Adult,Single,7.55
+0,2,male,44,1,0,26.0,S,Mr. Stephen,Hold,2,Middle-Aged,Small Family,13.0
+1,2,female,8,0,2,26.25,S,"Miss. Marjorie ""Lottie""",Collyer,3,Child,Small Family,8.75
+0,2,male,19,0,0,10.5,S,Mr. Frederick William,Pengelly,1,Teen,Single,10.5
+0,2,male,33,0,0,12.275,S,Mr. George Henry,Hunt,1,Adult,Single,12.275
+0,3,female,28,1,0,14.4542,C,Miss. Thamine,Zabour,2,Adult,Small Family,7.2271
+1,3,female,28,1,0,15.5,Q,"Miss. Katherine ""Kate""",Murphy,2,Adult,Small Family,7.75
+0,2,male,29,0,0,10.5,S,Mr. Reginald Charles,Coleridge,1,Adult,Single,10.5
+0,3,male,22,0,0,7.125,S,Mr. Matti Alexanteri,Maenpaa,1,Adult,Single,7.125
+0,3,male,30,0,0,7.225,C,Mr. Sleiman,Attalah,1,Adult,Single,7.225
+0,1,male,44,2,0,90.0,Q,Dr. William Edward,Minahan,3,Middle-Aged,Small Family,30.0
+0,3,female,25,0,0,7.775,S,Miss. Agda Thorilda Viktoria,Lindahl,1,Adult,Single,7.775
+1,2,female,24,0,2,14.5,S,Mrs. William,Hamalainen,3,Adult,Small Family,4.833333333333333
+1,1,male,37,1,1,52.5542,S,Mr. Richard Leonard,Beckwith,3,Adult,Small Family,17.518066666666666
+0,2,male,54,1,0,26.0,S,Rev. Ernest Courtenay,Carter,2,Middle-Aged,Small Family,13.0
+0,3,male,28,0,0,7.25,S,Mr. James George,Reed,1,Adult,Single,7.25
+0,3,female,29,1,1,10.4625,S,Mrs. Wilhelm,Strom,3,Adult,Small Family,3.4875000000000003
+0,1,male,62,0,0,26.55,S,Mr. William Thomas,Stead,1,Senior,Single,26.55
+0,3,male,30,1,0,16.1,S,Mr. William Arthur,Lobb,2,Adult,Small Family,8.05
+0,3,female,41,0,2,20.2125,S,Mrs. Viktor,Rosblom,3,Middle-Aged,Small Family,6.7375
+1,3,female,29,0,2,15.2458,C,Mrs. Darwis,Touma,3,Adult,Small Family,5.081933333333333
+1,1,female,28,0,0,79.2,C,Mrs. Gertrude Maybelle,Thorne,1,Adult,Single,79.2
+1,1,female,30,0,0,86.5,S,Miss. Gladys,Cherry,1,Adult,Single,86.5
+1,1,female,35,0,0,512.3292,C,Miss. Anna,Ward,1,Adult,Single,512.3292
+1,2,female,50,0,1,26.0,S,Mrs.,Parrish,2,Middle-Aged,Small Family,13.0
+0,3,male,28,0,0,7.75,Q,Mr. Thomas,Smith,1,Adult,Single,7.75
+1,3,male,3,4,2,31.3875,S,Master. Edvin Rojj Felix,Asplund,7,Child,Large Family,4.483928571428572
+0,1,male,52,1,1,79.65,S,Mr. Emil,Taussig,3,Middle-Aged,Small Family,26.55
+0,1,male,40,0,0,14.4542,S,Mr. William,Harrison,1,Adult,Single,14.4542
+0,3,female,28,0,0,7.75,Q,Miss. Delia,Henry,1,Adult,Single,7.75
+0,2,male,36,0,0,10.5,S,Mr. David,Reeves,1,Adult,Single,10.5
+0,3,male,16,4,1,39.6875,S,Mr. Ernesti Arvid,Panula,6,Teen,Large Family,6.614583333333333
+1,3,male,25,1,0,7.775,S,Mr. Ernst Ulrik,Persson,2,Adult,Small Family,3.8875
+1,1,female,58,0,1,153.4625,S,Mrs. William Thompson,Graham,2,Middle-Aged,Small Family,76.73125
+1,1,female,35,0,0,135.6333,S,Miss. Amelia,Bissette,1,Adult,Single,135.6333
+0,1,male,28,0,0,31.0,S,Mr. Alexander,Cairns,1,Adult,Single,31.0
+1,3,male,25,0,0,14.4542,S,Mr. William Henry,Tornquist,1,Adult,Single,14.4542
+1,2,female,41,0,1,19.5,S,Mrs.,Mellinger,2,Middle-Aged,Small Family,9.75
+0,1,male,37,0,1,29.7,C,Mr. Charles H,Natsch,2,Adult,Small Family,14.85
+1,3,female,28,0,0,7.75,Q,"Miss. Hanora ""Nora""",Healy,1,Adult,Single,7.75
+1,1,female,63,1,0,77.9583,S,Miss. Kornelia Theodosia,Andrews,2,Senior,Small Family,38.97915
+0,3,female,45,0,0,7.75,S,Miss. Augusta Charlotta,Lindblom,1,Middle-Aged,Single,7.75
+0,2,male,28,0,0,14.4542,S,"Mr. Francis ""Frank""",Parkes,1,Adult,Single,14.4542
+0,3,male,7,4,1,29.125,Q,Master. Eric,Rice,6,Child,Large Family,4.854166666666667
+1,3,female,35,1,1,20.25,S,Mrs. Stanton,Abbott,3,Adult,Small Family,6.75
+0,3,male,65,0,0,7.75,Q,Mr. Frank,Duane,1,Senior,Single,7.75
+0,3,male,28,0,0,7.8542,S,Mr. Nils Johan Goransson,Olsson,1,Adult,Single,7.8542
+0,3,male,16,0,0,9.5,S,Mr. Alfons,de Pelsmaeker,1,Teen,Single,9.5
+1,3,male,19,0,0,8.05,S,Mr. Edward Arthur,Dorking,1,Teen,Single,8.05
+0,1,male,28,0,0,26.0,S,Mr. Richard William,Smith,1,Adult,Single,26.0
+0,3,male,33,0,0,8.6625,C,Mr. Ivan,Stankovic,1,Adult,Single,8.6625
+1,3,male,30,0,0,9.5,S,Mr. Theodore,de Mulder,1,Adult,Single,9.5
+0,3,male,22,0,0,7.8958,S,Mr. Penko,Naidenoff,1,Adult,Single,7.8958
+1,2,male,42,0,0,13.0,S,Mr. Masabumi,Hosono,1,Middle-Aged,Single,13.0
+1,3,female,22,0,0,7.75,Q,Miss. Kate,Connolly,1,Adult,Single,7.75
+1,1,female,26,0,0,78.85,S,"Miss. Ellen ""Nellie""",Barber,1,Adult,Single,78.85
+1,1,female,19,1,0,91.0792,C,Mrs. Dickinson H,Bishop,2,Teen,Small Family,45.5396
+0,2,male,36,0,0,12.875,C,Mr. Rene Jacques,Levy,1,Adult,Single,12.875
+0,3,female,24,0,0,8.85,S,Miss. Aloisia,Haas,1,Adult,Single,8.85
+0,3,male,24,0,0,7.8958,S,Mr. Ivan,Mineff,1,Adult,Single,7.8958
+0,1,male,28,0,0,27.7208,C,Mr. Ervin G,Lewy,1,Adult,Single,27.7208
+0,3,male,23,0,0,7.2292,C,Mr. Mansour,Hanna,1,Adult,Single,7.2292
+0,1,female,2,1,2,151.55,S,Miss. Helen Loraine,Allison,4,Child,Large Family,37.8875
+1,1,male,28,0,0,30.5,S,Mr. Adolphe,Saalfeld,1,Adult,Single,30.5
+1,1,female,50,0,1,247.5208,C,Mrs. James,Baxter,2,Middle-Aged,Small Family,123.7604
+1,3,female,28,0,0,7.75,Q,"Miss. Anna Katherine ""Annie Kate""",Kelly,1,Adult,Single,7.75
+1,3,male,28,2,0,23.25,Q,Mr. Bernard,McCoy,3,Adult,Small Family,7.75
+0,3,male,19,0,0,14.4542,S,Mr. William Cahoone Jr,Johnson,1,Teen,Single,14.4542
+1,2,female,28,0,0,12.35,Q,Miss. Nora A,Keane,1,Adult,Single,12.35
+0,3,male,28,0,0,8.05,S,"Mr. Howard Hugh ""Harry""",Williams,1,Adult,Single,8.05
+1,1,male,0,1,2,151.55,S,Master. Hudson Trevor,Allison,4,,Large Family,37.8875
+1,1,female,28,0,0,110.8833,C,Miss. Margaret,Fleming,1,Adult,Single,110.8833
+1,1,female,17,1,0,108.9,C,Mrs. Victor de Satode,Penasco y Castellana,2,Teen,Small Family,54.45
+0,2,male,30,1,0,24.0,C,Mr. Samuel,Abelson,2,Adult,Small Family,12.0
+1,1,female,30,0,0,56.9292,C,Miss. Laura Mabel,Francatelli,1,Adult,Single,56.9292
+1,1,female,24,0,0,83.1583,C,Miss. Margaret Bechstein,Hays,1,Adult,Single,83.1583
+1,1,female,18,2,2,262.375,C,Miss. Emily Borie,Ryerson,5,Teen,Large Family,52.475
+0,2,female,26,1,1,26.0,S,Mrs. William,Lahtinen,3,Adult,Small Family,8.666666666666666
+0,3,male,28,0,0,7.8958,S,Mr. Ignjac,Hendekovic,1,Adult,Single,7.8958
+0,2,male,43,1,1,26.25,S,Mr. Benjamin,Hart,3,Middle-Aged,Small Family,8.75
+1,3,female,26,0,0,7.8542,S,Miss. Helmina Josefina,Nilsson,1,Adult,Single,7.8542
+1,2,female,24,1,0,26.0,S,Mrs. Sinai,Kantor,2,Adult,Small Family,13.0
+0,2,male,54,0,0,14.0,S,Dr. Ernest,Moraweck,1,Middle-Aged,Single,14.0
+1,1,female,31,0,2,164.8667,S,Miss. Mary Natalie,Wick,3,Adult,Small Family,54.95556666666667
+1,1,female,40,1,1,134.5,C,Mrs. Frederic Oakley,Spedden,3,Adult,Small Family,44.833333333333336
+0,3,male,22,0,0,7.25,S,Mr. Samuel,Dennis,1,Adult,Single,7.25
+0,3,male,27,0,0,7.8958,S,Mr. Yoto,Danoff,1,Adult,Single,7.8958
+1,2,female,30,0,0,12.35,Q,Miss. Hilda Mary,Slayter,1,Adult,Single,12.35
+1,2,female,22,1,1,29.0,S,Mrs. Albert Francis,Caldwell,3,Adult,Small Family,9.666666666666666
+0,3,male,28,8,2,69.55,S,Mr. George John Jr,Sage,11,Adult,Large Family,6.322727272727272
+1,1,female,36,0,0,135.6333,C,Miss. Marie Grice,Young,1,Adult,Single,135.6333
+0,3,male,61,0,0,6.2375,S,Mr. Johan Hansen,Nysveen,1,Senior,Single,6.2375
+1,2,female,36,0,0,13.0,S,Mrs.,Ball,1,Adult,Single,13.0
+1,3,female,31,1,1,20.525,S,Mrs. Frank John,Goldsmith,3,Adult,Small Family,6.841666666666666
+1,1,female,16,0,1,57.9792,C,Miss. Jean Gertrude,Hippach,2,Teen,Small Family,28.9896
+1,3,female,28,2,0,23.25,Q,Miss. Agnes,McCoy,3,Adult,Small Family,7.75
+0,1,male,45,0,0,28.5,S,Mr. Austen,Partner,1,Middle-Aged,Single,28.5
+0,1,male,38,0,1,153.4625,S,Mr. George Edward,Graham,2,Adult,Small Family,76.73125
+0,3,male,16,2,0,18.0,S,Mr. Leo Edmondus,Vander Planke,3,Teen,Small Family,6.0
+1,1,female,28,1,0,133.65,S,Mrs. Henry William,Frauenthal,2,Adult,Small Family,66.825
+0,3,male,28,0,0,7.8958,S,Mr. Mitto,Denkoff,1,Adult,Single,7.8958
+0,1,male,29,1,0,66.6,S,Mr. Thomas Clinton,Pears,2,Adult,Small Family,33.3
+1,1,female,41,0,0,134.5,C,Miss. Elizabeth Margaret,Burns,1,Middle-Aged,Single,134.5
+1,3,male,45,0,0,8.05,S,Mr. Karl Edwart,Dahl,1,Middle-Aged,Single,8.05
+0,1,male,45,0,0,35.5,S,Mr. Stephen Weart,Blackwell,1,Middle-Aged,Single,35.5
+1,2,male,2,1,1,26.0,S,Master. Edmond Roger,Navratil,3,Child,Small Family,8.666666666666666
+1,1,female,24,3,2,263.0,S,Miss. Alice Elizabeth,Fortune,6,Adult,Large Family,43.833333333333336
+0,2,male,28,0,0,13.0,S,Mr. Erik Gustaf,Collander,1,Adult,Single,13.0
+0,2,male,25,0,0,13.0,S,Mr. Charles Frederick Waddington,Sedgwick,1,Adult,Single,13.0
+0,2,male,36,0,0,13.0,S,Mr. Stanley Hubert,Fox,1,Adult,Single,13.0
+1,2,female,24,0,0,13.0,S,"Miss. Amelia ""Mildred""",Brown,1,Adult,Single,13.0
+1,2,female,40,0,0,13.0,S,Miss. Marion Elsie,Smith,1,Adult,Single,13.0
+1,3,female,28,1,0,16.1,S,Mrs. Thomas Henry,Davison,2,Adult,Small Family,8.05
+1,3,male,3,1,1,15.9,S,"Master. William Loch ""William""",Coutts,3,Child,Small Family,5.3
+0,3,male,42,0,0,8.6625,S,Mr. Jovan,Dimic,1,Middle-Aged,Single,8.6625
+0,3,male,23,0,0,9.225,S,Mr. Nils Martin,Odahl,1,Adult,Single,9.225
+0,1,male,28,0,0,35.0,S,Mr. Fletcher Fellows,Williams-Lambert,1,Adult,Single,35.0
+0,3,male,15,1,1,7.2292,C,Mr. Tannous,Elias,3,Teen,Small Family,2.409733333333333
+0,3,male,25,1,0,17.8,S,Mr. Josef,Arnold-Franchi,2,Adult,Small Family,8.9
+0,3,male,28,0,0,7.225,C,Mr. Wazli,Yousif,1,Adult,Single,7.225
+0,3,male,28,0,0,9.5,S,Mr. Leo Peter,Vanden Steen,1,Adult,Single,9.5
+1,1,female,22,0,1,55.0,S,Miss. Elsie Edith,Bowerman,2,Adult,Small Family,27.5
+0,2,female,38,0,0,13.0,S,Miss. Annie Clemmer,Funk,1,Adult,Single,13.0
+1,3,female,28,0,0,7.8792,Q,Miss. Mary,McGovern,1,Adult,Single,7.8792
+1,3,female,28,0,0,7.8792,Q,"Miss. Helen Mary ""Ellie""",Mockler,1,Adult,Single,7.8792
+0,3,male,40,1,4,27.9,S,Mr. Wilhelm,Skoog,6,Adult,Large Family,4.6499999999999995
+0,2,male,29,1,0,27.7208,C,Mr. Sebastiano,del Carlo,2,Adult,Small Family,13.8604
+0,3,female,45,0,1,14.4542,C,Mrs.,Barbara,2,Middle-Aged,Small Family,7.2271
+0,3,male,35,0,0,7.05,S,Mr. Adola,Asim,1,Adult,Single,7.05
+0,3,male,28,1,0,15.5,Q,Mr. Thomas,O'Brien,2,Adult,Small Family,7.75
+0,3,male,30,0,0,7.25,S,Mr. Mauritz Nils Martin,Adahl,1,Adult,Single,7.25
+1,1,female,60,1,0,75.25,C,Mrs. Frank Manley,Warren,2,Middle-Aged,Small Family,37.625
+1,3,female,28,0,0,7.2292,C,Mrs.,Moussa,1,Adult,Single,7.2292
+1,3,female,28,0,0,7.75,Q,Miss. Annie,Jermyn,1,Adult,Single,7.75
+1,1,female,24,0,0,69.3,C,Mme. Leontine Pauline,Aubart,1,Adult,Single,69.3
+1,1,male,25,1,0,55.4417,C,Mr. George Achilles,Harder,2,Adult,Small Family,27.72085
+0,3,male,18,1,0,6.4958,S,Mr. Jakob Alfred,Wiklund,2,Teen,Small Family,3.2479
+0,3,male,19,0,0,8.05,S,Mr. William Thomas,Beavan,1,Teen,Single,8.05
+0,1,male,22,0,0,135.6333,C,Mr. Sante,Ringhini,1,Adult,Single,135.6333
+0,3,female,3,3,1,21.075,S,Miss. Stina Viola,Palsson,5,Child,Large Family,4.215
+1,1,female,28,1,0,82.1708,C,Mrs. Edgar Joseph,Meyer,2,Adult,Small Family,41.0854
+1,3,female,22,0,0,7.25,S,Miss. Aurora Adelia,Landergren,1,Adult,Single,7.25
+0,1,male,27,0,2,211.5,C,Mr. Harry Elkins,Widener,3,Adult,Small Family,70.5
+0,3,male,20,0,0,4.0125,C,Mr. Tannous,Betros,1,Teen,Single,4.0125
+0,3,male,19,0,0,7.775,S,Mr. Karl Gideon,Gustafsson,1,Teen,Single,7.775
+1,1,female,42,0,0,227.525,C,Miss. Rosalie,Bidois,1,Middle-Aged,Single,227.525
+1,3,female,1,0,2,15.7417,C,Miss. Maria,Nakid,3,Child,Small Family,5.247233333333333
+0,3,male,32,0,0,7.925,S,Mr. Juho,Tikkanen,1,Adult,Single,7.925
+1,1,female,35,1,0,52.0,S,Mrs. Alexander Oskar,Holverson,2,Adult,Small Family,26.0
+0,3,male,28,0,0,7.8958,S,Mr. Vasil,Plotcharsky,1,Adult,Single,7.8958
+0,2,male,18,0,0,73.5,S,Mr. Charles Henry,Davies,1,Teen,Single,73.5
+0,3,male,1,5,2,46.9,S,Master. Sidney Leonard,Goodwin,8,Child,Large Family,5.8625
+1,2,female,36,0,0,13.0,S,Miss. Kate,Buss,1,Adult,Single,13.0
+0,3,male,28,0,0,7.7292,Q,Mr. Matthew,Sadlier,1,Adult,Single,7.7292
+1,2,female,17,0,0,12.0,C,Miss. Bertha,Lehmann,1,Teen,Single,12.0
+1,1,male,36,1,2,120.0,S,Mr. William Ernest,Carter,4,Adult,Large Family,30.0
+1,3,male,21,0,0,7.7958,S,Mr. Carl Olof,Jansson,1,Adult,Single,7.7958
+0,3,male,28,2,0,7.925,S,Mr. Johan Birger,Gustafsson,3,Adult,Small Family,2.6416666666666666
+1,1,female,23,1,0,113.275,C,Miss. Marjorie,Newell,2,Adult,Small Family,56.6375
+1,3,female,24,0,2,16.7,S,Mrs. Hjalmar,Sandstrom,3,Adult,Small Family,5.566666666666666
+0,3,male,22,0,0,7.7958,S,Mr. Erik,Johansson,1,Adult,Single,7.7958
+0,3,female,31,0,0,7.8542,S,Miss. Elina,Olsson,1,Adult,Single,7.8542
+0,2,male,46,0,0,26.0,S,Mr. Peter David,McKane,1,Middle-Aged,Single,26.0
+0,2,male,23,0,0,10.5,S,Dr. Alfred,Pain,1,Adult,Single,10.5
+1,2,female,28,0,0,12.65,S,Mrs. William H,Trout,1,Adult,Single,12.65
+1,3,male,39,0,0,7.925,S,Mr. Juha,Niskanen,1,Adult,Single,7.925
+0,3,male,26,0,0,8.05,S,Mr. John,Adams,1,Adult,Single,8.05
+0,3,female,21,1,0,9.825,S,Miss. Mari Aina,Jussila,2,Adult,Small Family,4.9125
+0,3,male,28,1,0,15.85,S,Mr. Pekka Pietari,Hakkarainen,2,Adult,Small Family,7.925
+0,3,female,20,0,0,8.6625,S,Miss. Marija,Oreskovic,1,Teen,Single,8.6625
+0,2,male,34,1,0,21.0,S,Mr. Shadrach,Gale,2,Adult,Small Family,10.5
+0,3,male,51,0,0,7.75,S,Mr. Carl/Charles Peter,Widegren,1,Middle-Aged,Single,7.75
+1,2,male,3,1,1,18.75,S,Master. William Rowe,Richards,3,Child,Small Family,6.25
+0,3,male,21,0,0,7.775,S,Mr. Hans Martin Monsen,Birkeland,1,Adult,Single,7.775
+0,3,female,28,3,1,25.4667,S,Miss. Ida,Lefebre,5,Adult,Large Family,5.0933399999999995
+0,3,male,28,0,0,7.8958,S,Mr. Todor,Sdycoff,1,Adult,Single,7.8958
+0,3,male,28,0,0,6.8583,Q,Mr. Henry,Hart,1,Adult,Single,6.8583
+1,1,female,33,1,0,90.0,Q,Miss. Daisy E,Minahan,2,Adult,Small Family,45.0
+0,2,male,28,0,0,14.4542,S,Mr. Alfred Fleming,Cunningham,1,Adult,Single,14.4542
+1,3,male,44,0,0,7.925,S,Mr. Johan Julian,Sundman,1,Middle-Aged,Single,7.925
+0,3,female,28,0,0,8.05,S,Mrs. Thomas,Meek,1,Adult,Single,8.05
+1,2,female,34,1,1,32.5,S,Mrs. James Vivian,Drew,3,Adult,Small Family,10.833333333333334
+1,2,female,18,0,2,13.0,S,Miss. Lyyli Karoliina,Silven,3,Teen,Small Family,4.333333333333333
+0,2,male,30,0,0,13.0,S,Mr. William John,Matthews,1,Adult,Single,13.0
+0,3,female,10,0,2,24.15,S,Miss. Catharina,Van Impe,3,Child,Small Family,8.049999999999999
+0,3,male,28,0,0,7.8958,C,Mr. Stanio,Gheorgheff,1,Adult,Single,7.8958
+0,3,male,21,0,0,7.7333,Q,Mr. David,Charters,1,Adult,Single,7.7333
+0,3,male,29,0,0,7.875,S,Mr. Leo,Zimmerman,1,Adult,Single,7.875
+0,3,female,28,1,1,14.4,S,Mrs. Ernst Gilbert,Danbom,3,Adult,Small Family,4.8
+0,3,male,18,1,1,20.2125,S,Mr. Viktor Richard,Rosblom,3,Teen,Small Family,6.7375
+0,3,male,28,0,0,7.25,S,Mr. Phillippe,Wiseman,1,Adult,Single,7.25
+1,2,female,28,1,0,26.0,S,Mrs. Charles V,Clarke,2,Adult,Small Family,13.0
+1,2,female,19,0,0,26.0,S,Miss. Kate Florence,Phillips,1,Teen,Single,26.0
+0,3,male,28,0,0,7.75,Q,Mr. James,Flynn,1,Adult,Single,7.75
+1,3,male,32,0,0,8.05,S,Mr. Berk,Pickard,1,Adult,Single,8.05
+1,1,male,28,0,0,26.55,S,Mr. Mauritz Hakan,Bjornstrom-Steffansson,1,Adult,Single,26.55
+1,3,female,28,1,0,16.1,S,Mrs. Percival,Thorneycroft,2,Adult,Small Family,8.05
+1,2,female,42,1,0,26.0,S,Mrs. Charles Alexander,Louch,2,Middle-Aged,Small Family,13.0
+0,3,male,17,0,0,7.125,S,Mr. Nikolai Erland,Kallio,1,Teen,Single,7.125
+0,1,male,50,1,0,55.9,S,Mr. William Baird,Silvey,2,Middle-Aged,Small Family,27.95
+1,1,female,14,1,2,120.0,S,Miss. Lucile Polk,Carter,4,Teen,Large Family,30.0
+0,3,female,21,2,2,34.375,S,"Miss. Doolina Margaret ""Daisy""",Ford,5,Adult,Large Family,6.875
+1,2,female,24,2,3,18.75,S,Mrs. Sidney,Richards,6,Adult,Large Family,3.125
+0,1,male,64,1,4,263.0,S,Mr. Mark,Fortune,6,Senior,Large Family,43.833333333333336
+0,2,male,31,0,0,10.5,S,Mr. Johan Henrik Johannesson,Kvillner,1,Adult,Single,10.5
+1,2,female,45,1,1,26.25,S,Mrs. Benjamin,Hart,3,Middle-Aged,Small Family,8.75
+0,3,male,20,0,0,9.5,S,Mr. Leon,Hampe,1,Teen,Single,9.5
+0,3,male,25,1,0,7.775,S,Mr. Johan Emil,Petterson,2,Adult,Small Family,3.8875
+1,2,female,28,0,0,13.0,S,Ms. Encarnacion,Reynaldo,1,Adult,Single,13.0
+1,3,male,28,0,0,8.1125,S,Mr. Bernt,Johannesen-Bratthammer,1,Adult,Single,8.1125
+1,1,male,4,0,2,81.8583,S,Master. Washington,Dodge,3,Child,Small Family,27.2861
+1,2,female,13,0,1,19.5,S,Miss. Madeleine Violet,Mellinger,2,Teen,Small Family,9.75
+1,1,male,34,0,0,26.55,S,Mr. Frederic Kimber,Seward,1,Adult,Single,26.55
+1,3,female,5,2,1,19.2583,C,Miss. Marie Catherine,Baclini,4,Child,Large Family,4.814575
+1,1,male,52,0,0,30.5,S,Major. Arthur Godfrey,Peuchen,1,Middle-Aged,Single,30.5
+0,2,male,36,1,2,27.75,S,Mr. Edwy Arthur,West,4,Adult,Large Family,6.9375
+0,3,male,28,1,0,19.9667,S,Mr. Ingvald Olai Olsen,Hagland,2,Adult,Small Family,9.98335
+0,1,male,30,0,0,27.75,C,Mr. Benjamin Laventall,Foreman,1,Adult,Single,27.75
+1,1,male,49,1,0,89.1042,C,Mr. Samuel L,Goldenberg,2,Middle-Aged,Small Family,44.5521
+0,3,male,28,0,0,8.05,S,Mr. Joseph,Peduzzi,1,Adult,Single,8.05
+1,3,male,29,0,0,7.8958,C,Mr. Ivan,Jalsevac,1,Adult,Single,7.8958
+0,1,male,65,0,0,26.55,S,Mr. Francis Davis,Millet,1,Senior,Single,26.55
+1,1,female,28,1,0,51.8625,S,Mrs. Frederick R,Kenyon,2,Adult,Small Family,25.93125
+1,2,female,50,0,0,10.5,S,Miss. Ellen,Toomey,1,Middle-Aged,Single,10.5
+0,3,male,28,0,0,7.75,Q,Mr. Maurice,O'Connor,1,Adult,Single,7.75
+1,1,male,48,0,0,26.55,S,Mr. Harry,Anderson,1,Middle-Aged,Single,26.55
+0,3,male,34,0,0,8.05,S,Mr. William,Morley,1,Adult,Single,8.05
+0,1,male,47,0,0,38.5,S,Mr. Arthur H,Gee,1,Middle-Aged,Single,38.5
+0,2,male,48,0,0,13.0,S,Mr. Jacob Christian,Milling,1,Middle-Aged,Single,13.0
+0,3,male,28,0,0,8.05,S,Mr. Simon,Maisner,1,Adult,Single,8.05
+0,3,male,38,0,0,7.05,S,Mr. Manuel Estanslas,Goncalves,1,Adult,Single,7.05
+0,2,male,28,0,0,14.4542,S,Mr. William,Campbell,1,Adult,Single,14.4542
+0,1,male,56,0,0,26.55,S,Mr. John Montgomery,Smart,1,Middle-Aged,Single,26.55
+0,3,male,28,0,0,7.725,Q,Mr. James,Scanlan,1,Adult,Single,7.725
+1,3,female,0,2,1,19.2583,C,Miss. Helene Barbara,Baclini,4,,Large Family,4.814575
+0,3,male,28,0,0,7.25,S,Mr. Arthur,Keefe,1,Adult,Single,7.25
+0,3,male,38,0,0,8.6625,S,Mr. Luka,Cacic,1,Adult,Single,8.6625
+1,2,female,33,1,2,27.75,S,Mrs. Edwy Arthur,West,4,Adult,Large Family,6.9375
+1,2,female,23,0,0,13.7917,C,Mrs. Amin S,Jerwan,1,Adult,Single,13.7917
+0,3,female,22,0,0,9.8375,S,Miss. Ida Sofia,Strandberg,1,Adult,Single,9.8375
+0,1,male,28,0,0,52.0,S,Mr. George Quincy,Clifford,1,Adult,Single,52.0
+0,2,male,34,1,0,21.0,S,Mr. Peter Henry,Renouf,2,Adult,Small Family,10.5
+0,3,male,29,1,0,7.0458,S,Mr. Lewis Richard,Braund,2,Adult,Small Family,3.5229
+0,3,male,22,0,0,7.5208,S,Mr. Nils August,Karlsson,1,Adult,Single,7.5208
+1,3,female,2,0,1,12.2875,S,Miss. Hildur E,Hirvonen,2,Child,Small Family,6.14375
+0,3,male,9,5,2,46.9,S,Master. Harold Victor,Goodwin,8,Child,Large Family,5.8625
+0,2,male,28,0,0,14.4542,S,"Mr. Anthony Wood ""Archie""",Frost,1,Adult,Single,14.4542
+0,3,male,50,0,0,8.05,S,Mr. Richard Henry,Rouse,1,Middle-Aged,Single,8.05
+1,3,female,63,0,0,9.5875,S,Mrs.,Turkula,1,Senior,Single,9.5875
+1,1,male,25,1,0,91.0792,C,Mr. Dickinson H,Bishop,2,Adult,Small Family,45.5396
+0,3,female,28,3,1,25.4667,S,Miss. Jeannie,Lefebre,5,Adult,Large Family,5.0933399999999995
+1,1,female,35,1,0,90.0,S,Mrs. Frederick Maxfield,Hoyt,2,Adult,Small Family,45.0
+0,1,male,58,0,0,29.7,C,Mr. Edward Austin,Kent,1,Middle-Aged,Single,29.7
+0,3,male,30,0,0,8.05,S,Mr. Francis William,Somerton,1,Adult,Single,8.05
+1,3,male,9,1,1,15.9,S,"Master. Eden Leslie ""Neville""",Coutts,3,Child,Small Family,5.3
+0,3,male,28,1,0,19.9667,S,Mr. Konrad Mathias Reiersen,Hagland,2,Adult,Small Family,9.98335
+0,3,male,21,0,0,7.25,S,Mr. Einar,Windelov,1,Adult,Single,7.25
+0,1,male,55,0,0,30.5,S,Mr. Harry Markland,Molson,1,Middle-Aged,Single,30.5
+0,1,male,71,0,0,49.5042,C,Mr. Ramon,Artagaveytia,1,Senior,Single,49.5042
+0,3,male,21,0,0,8.05,S,Mr. Edward Roland,Stanley,1,Adult,Single,8.05
+0,3,male,28,0,0,14.4583,C,Mr. Gerious,Yousseff,1,Adult,Single,14.4583
+1,1,female,54,1,0,78.2667,C,Miss. Elizabeth Mussey,Eustis,2,Middle-Aged,Small Family,39.13335
+0,3,male,28,0,0,15.1,S,Mr. Frederick William,Shellard,1,Adult,Single,15.1
+0,1,female,25,1,2,151.55,S,Mrs. Hudson J C,Allison,4,Adult,Large Family,37.8875
+0,3,male,24,0,0,7.7958,S,Mr. Olof,Svensson,1,Adult,Single,7.7958
+0,3,male,17,0,0,8.6625,S,Mr. Petar,Calic,1,Teen,Single,8.6625
+0,3,female,21,0,0,7.75,Q,Miss. Mary,Canavan,1,Adult,Single,7.75
+0,3,female,28,0,0,7.6292,Q,Miss. Bridget Mary,O'Sullivan,1,Adult,Single,7.6292
+0,3,female,37,0,0,9.5875,S,Miss. Kristina Sofia,Laitinen,1,Adult,Single,9.5875
+1,1,female,16,0,0,86.5,S,Miss. Roberta,Maioni,1,Teen,Single,86.5
+0,1,male,18,1,0,108.9,C,Mr. Victor de Satode,Penasco y Castellana,2,Teen,Small Family,54.45
+1,2,female,33,0,2,26.0,S,Mrs. Frederick Charles,Quick,3,Adult,Small Family,8.666666666666666
+1,1,male,28,0,0,26.55,S,Mr. George,Bradley,1,Adult,Single,26.55
+0,3,male,28,0,0,22.525,S,Mr. Henry Margido,Olsen,1,Adult,Single,22.525
+1,3,male,26,0,0,56.4958,S,Mr. Fang,Lang,1,Adult,Single,56.4958
+1,3,male,29,0,0,7.75,Q,Mr. Eugene Patrick,Daly,1,Adult,Single,7.75
+0,3,male,28,0,0,8.05,S,Mr. James,Webber,1,Adult,Single,8.05
+1,1,male,36,0,0,26.2875,S,Mr. James Robert,McGough,1,Adult,Single,26.2875
+1,1,female,54,1,0,59.4,C,Mrs. Martin,Rothschild,2,Middle-Aged,Small Family,29.7
+0,3,male,24,0,0,7.4958,S,Mr. Satio,Coleff,1,Adult,Single,7.4958
+0,1,male,47,0,0,34.0208,S,Mr. William Anderson,Walker,1,Middle-Aged,Single,34.0208
+1,2,female,34,0,0,10.5,S,Mrs.,Lemore,1,Adult,Single,10.5
+0,3,male,28,0,0,24.15,Q,Mr. Patrick,Ryan,1,Adult,Single,24.15
+1,2,female,36,1,0,26.0,S,Mrs. William A,Angle,2,Adult,Small Family,13.0
+0,3,male,32,0,0,7.8958,S,Mr. Stefo,Pavlovic,1,Adult,Single,7.8958
+1,1,female,30,0,0,93.5,S,Miss. Anne,Perreault,1,Adult,Single,93.5
+0,3,male,22,0,0,7.8958,S,Mr. Janko,Vovk,1,Adult,Single,7.8958
+0,3,male,28,0,0,7.225,C,Mr. Sarkis,Lahoud,1,Adult,Single,7.225
+1,1,female,44,0,1,57.9792,C,Mrs. Louis Albert,Hippach,2,Middle-Aged,Small Family,28.9896
+0,3,male,28,0,0,7.2292,C,Mr. Fared,Kassem,1,Adult,Single,7.2292
+0,3,male,40,0,0,7.75,Q,Mr. James,Farrell,1,Adult,Single,7.75
+1,2,female,50,0,0,10.5,S,Miss. Lucy,Ridsdale,1,Middle-Aged,Single,10.5
+0,1,male,28,0,0,221.7792,S,Mr. John,Farthing,1,Adult,Single,221.7792
+0,3,male,39,0,0,7.925,S,Mr. Johan Werner,Salonen,1,Adult,Single,7.925
+0,2,male,23,2,1,11.5,S,Mr. Richard George,Hocking,4,Adult,Large Family,2.875
+1,2,female,2,1,1,26.0,S,Miss. Phyllis May,Quick,3,Child,Small Family,8.666666666666666
+0,3,male,28,0,0,7.2292,C,Mr. Nakli,Toufik,1,Adult,Single,7.2292
+0,3,male,17,1,1,7.2292,C,Mr. Joseph Jr,Elias,3,Teen,Small Family,2.409733333333333
+1,3,female,28,0,2,22.3583,C,Mrs. Catherine,Peter,3,Adult,Small Family,7.452766666666666
+0,3,female,30,0,0,8.6625,S,Miss. Marija,Cacic,1,Adult,Single,8.6625
+1,2,female,7,0,2,26.25,S,Miss. Eva Miriam,Hart,3,Child,Small Family,8.75
+0,1,male,45,0,0,26.55,S,Major. Archibald Willingham,Butt,1,Middle-Aged,Single,26.55
+1,1,female,30,0,0,106.425,C,Miss. Bertha,LeRoy,1,Adult,Single,106.425
+0,3,male,28,0,0,14.5,S,Mr. Samuel Beard,Risien,1,Adult,Single,14.5
+1,1,female,22,0,2,49.5,C,Miss. Hedwig Margaritha,Frolicher,3,Adult,Small Family,16.5
+1,1,female,36,0,2,71.0,S,Miss. Harriet R,Crosby,3,Adult,Small Family,23.666666666666668
+0,3,female,9,4,2,31.275,S,Miss. Ingeborg Constanzia,Andersson,7,Child,Large Family,4.4678571428571425
+0,3,female,11,4,2,31.275,S,Miss. Sigrid Elisabeth,Andersson,7,Child,Large Family,4.4678571428571425
+1,2,male,32,1,0,26.0,S,Mr. Edward,Beane,2,Adult,Small Family,13.0
+0,1,male,50,1,0,106.425,C,Mr. Walter Donald,Douglas,2,Middle-Aged,Small Family,53.2125
+0,1,male,64,0,0,26.0,S,Mr. Arthur Ernest,Nicholson,1,Senior,Single,26.0
+1,2,female,19,1,0,26.0,S,Mrs. Edward,Beane,2,Teen,Small Family,13.0
+1,2,male,28,0,0,13.8625,C,Mr. Julian,Padro y Manent,1,Adult,Single,13.8625
+0,3,male,33,1,1,20.525,S,Mr. Frank John,Goldsmith,3,Adult,Small Family,6.841666666666666
+1,2,male,8,1,1,36.75,S,Master. John Morgan Jr,Davies,3,Child,Small Family,12.25
+1,1,male,17,0,2,110.8833,C,Mr. John Borland Jr,Thayer,3,Teen,Small Family,36.9611
+0,2,male,27,0,0,26.0,S,Mr. Percival James R,Sharp,1,Adult,Single,26.0
+0,3,male,28,0,0,7.8292,Q,Mr. Timothy,O'Brien,1,Adult,Single,7.8292
+1,3,male,22,0,0,7.225,C,Mr. Fahim,Leeni,1,Adult,Single,7.225
+1,3,female,22,0,0,7.775,S,Miss. Velin,Ohman,1,Adult,Single,7.775
+0,1,male,62,0,0,26.55,S,Mr. George,Wright,1,Senior,Single,26.55
+1,1,female,48,1,0,39.6,C,,,2,Middle-Aged,Small Family,19.8
+0,1,male,28,0,0,227.525,C,Mr. Victor,Robbins,1,Adult,Single,227.525
+1,1,female,39,1,1,79.65,S,Mrs. Emil,Taussig,3,Adult,Small Family,26.55
+1,3,female,36,1,0,17.4,S,Mrs. Guillaume Joseph,de Messemaeker,2,Adult,Small Family,8.7
+0,3,male,28,0,0,7.75,Q,Mr. Thomas Rowan,Morrow,1,Adult,Single,7.75
+0,3,male,40,0,0,7.8958,S,Mr. Husein,Sivic,1,Adult,Single,7.8958
+0,2,male,28,0,0,13.5,S,Mr. Robert Douglas,Norman,1,Adult,Single,13.5
+0,3,male,28,0,0,8.05,S,Mr. John,Simmons,1,Adult,Single,8.05
+0,3,female,28,0,0,8.05,S,Miss.,Meanwell,1,Adult,Single,8.05
+0,3,male,24,2,0,24.15,S,Mr. Alfred J,Davies,3,Adult,Small Family,8.049999999999999
+0,3,male,19,0,0,7.8958,S,Mr. Ilia,Stoytcheff,1,Teen,Single,7.8958
+0,3,female,29,0,4,21.075,S,Mrs. Nils,Palsson,5,Adult,Large Family,4.215
+0,3,male,28,0,0,7.2292,C,Mr. Tannous,Doharr,1,Adult,Single,7.2292
+1,3,male,32,0,0,7.8542,S,Mr. Carl,Jonsson,1,Adult,Single,7.8542
+1,2,male,62,0,0,10.5,S,Mr. George,Harris,1,Senior,Single,10.5
+1,1,female,53,2,0,51.4792,S,Mrs. Edward Dale,Appleton,3,Middle-Aged,Small Family,17.15973333333333
+1,1,male,36,0,0,26.3875,S,Mr. John Irwin,Flynn,1,Adult,Single,26.3875
+1,3,female,28,0,0,7.75,Q,Miss. Mary,Kelly,1,Adult,Single,7.75
+0,3,male,16,0,0,8.05,S,Mr. Alfred George John,Rush,1,Teen,Single,8.05
+0,3,male,19,0,0,14.5,S,Mr. George,Patchett,1,Teen,Single,14.5
+1,2,female,34,0,0,13.0,S,Miss. Ethel,Garside,1,Adult,Single,13.0
+1,1,female,39,1,0,55.9,S,Mrs. William Baird,Silvey,2,Adult,Small Family,27.95
+0,3,female,28,1,0,14.4583,C,Mrs. Joseph,Caram,2,Adult,Small Family,7.22915
+1,3,male,32,0,0,7.925,S,Mr. Eiriik,Jussila,1,Adult,Single,7.925
+1,2,female,25,1,1,30.0,S,Miss. Julie Rachel,Christy,3,Adult,Small Family,10.0
+1,1,female,39,1,1,110.8833,C,Mrs. John Borland,Thayer,3,Adult,Small Family,36.9611
+0,2,male,54,0,0,26.0,S,Mr. William James,Downton,1,Middle-Aged,Single,26.0
+0,1,male,36,0,0,40.125,C,Mr. John Hugo,Ross,1,Adult,Single,40.125
+0,3,male,28,0,0,8.7125,C,Mr. Uscher,Paulner,1,Adult,Single,8.7125
+1,1,female,18,0,2,79.65,S,Miss. Ruth,Taussig,3,Teen,Small Family,26.55
+0,2,male,47,0,0,15.0,S,Mr. John Denzil,Jarvis,1,Middle-Aged,Single,15.0
+1,1,male,60,1,1,79.2,C,Mr. Maxmillian,Frolicher-Stehli,3,Middle-Aged,Small Family,26.400000000000002
+0,3,male,22,0,0,8.05,S,Mr. Eliezer,Gilinski,1,Adult,Single,8.05
+0,3,male,28,0,0,8.05,S,Mr. Joseph,Murdlin,1,Adult,Single,8.05
+0,3,male,35,0,0,7.125,S,Mr. Matti,Rintamaki,1,Adult,Single,7.125
+1,1,female,52,1,0,78.2667,C,Mrs. Walter Bertram,Stephenson,2,Middle-Aged,Small Family,39.13335
+0,3,male,47,0,0,7.25,S,Mr. William James,Elsbury,1,Middle-Aged,Single,7.25
+0,3,female,28,0,2,7.75,Q,Miss. Mary,Bourke,3,Adult,Small Family,2.5833333333333335
+0,2,male,37,1,0,26.0,S,Mr. John Henry,Chapman,2,Adult,Small Family,13.0
+0,3,male,36,1,1,24.15,S,Mr. Jean Baptiste,Van Impe,3,Adult,Small Family,8.049999999999999
+1,2,female,28,0,0,33.0,S,Miss. Jessie Wills,Leitch,1,Adult,Single,33.0
+0,3,male,49,0,0,14.4542,S,Mr. Alfred,Johnson,1,Middle-Aged,Single,14.4542
+0,3,male,28,0,0,7.225,C,Mr. Hanna,Boulos,1,Adult,Single,7.225
+1,1,male,49,1,0,56.9292,C,Sir. Cosmo Edmund,Duff Gordon,2,Middle-Aged,Small Family,28.4646
+1,2,female,24,2,1,27.0,S,Mrs. Sidney Samuel,Jacobsohn,4,Adult,Large Family,6.75
+0,3,male,28,0,0,7.8958,S,Mr. Petco,Slabenoff,1,Adult,Single,7.8958
+0,1,male,28,0,0,42.4,S,Mr. Charles H,Harrington,1,Adult,Single,42.4
+0,3,male,44,0,0,8.05,S,Mr. Ernst William,Torber,1,Middle-Aged,Single,8.05
+1,1,male,35,0,0,26.55,C,Mr. Harry,Homer,1,Adult,Single,26.55
+0,3,male,36,1,0,15.55,S,Mr. Edvard Bengtsson,Lindell,2,Adult,Small Family,7.775
+0,3,male,30,0,0,7.8958,S,Mr. Milan,Karaic,1,Adult,Single,7.8958
+1,1,male,27,0,0,30.5,S,Mr. Robert Williams,Daniel,1,Adult,Single,30.5
+1,2,female,22,1,2,41.5792,C,Mrs. Joseph,Laroche,4,Adult,Large Family,10.3948
+1,1,female,40,0,0,153.4625,S,Miss. Elizabeth W,Shutes,1,Adult,Single,153.4625
+0,3,female,39,1,5,31.275,S,Mrs. Anders Johan,Andersson,7,Adult,Large Family,4.4678571428571425
+0,3,male,28,0,0,7.05,S,Mr. Jose Neto,Jardin,1,Adult,Single,7.05
+1,3,female,28,1,0,15.5,Q,Miss. Margaret Jane,Murphy,2,Adult,Small Family,7.75
+0,3,male,28,0,0,7.75,Q,Mr. John,Horgan,1,Adult,Single,7.75
+0,3,male,35,0,0,8.05,S,Mr. William Alfred,Brocklebank,1,Adult,Single,8.05
+1,2,female,24,1,2,65.0,S,Miss. Alice,Herman,4,Adult,Large Family,16.25
+0,3,male,34,1,1,14.4,S,Mr. Ernst Gilbert,Danbom,3,Adult,Small Family,4.8
+0,3,female,26,1,0,16.1,S,Mrs. William Arthur,Lobb,2,Adult,Small Family,8.05
+1,2,female,4,2,1,39.0,S,Miss. Marion Louise,Becker,4,Child,Large Family,9.75
+0,2,male,26,0,0,10.5,S,Mr. Lawrence,Gavey,1,Adult,Single,10.5
+0,3,male,27,1,0,14.4542,C,Mr. Antoni,Yasbeck,2,Adult,Small Family,7.2271
+1,1,male,42,1,0,52.5542,S,Mr. Edwin Nelson Jr,Kimball,2,Middle-Aged,Small Family,26.2771
+1,3,male,20,1,1,15.7417,C,Mr. Sahid,Nakid,3,Teen,Small Family,5.247233333333333
+0,3,male,21,0,0,7.8542,S,Mr. Henry Damsgaard,Hansen,1,Adult,Single,7.8542
+0,3,male,21,0,0,16.1,S,"Mr. David John ""Dai""",Bowen,1,Adult,Single,16.1
+0,1,male,61,0,0,32.3208,S,Mr. Frederick,Sutton,1,Senior,Single,32.3208
+0,2,male,57,0,0,12.35,Q,Rev. Charles Leonard,Kirkland,1,Middle-Aged,Single,12.35
+1,1,female,21,0,0,77.9583,S,Miss. Gretchen Fiske,Longley,1,Adult,Single,77.9583
+0,3,male,26,0,0,7.8958,S,Mr. Guentcho,Bostandyeff,1,Adult,Single,7.8958
+0,3,male,28,0,0,7.7333,Q,Mr. Patrick D,O'Connell,1,Adult,Single,7.7333
+1,1,male,80,0,0,30.0,S,Mr. Algernon Henry Wilson,Barkworth,1,Senior,Single,30.0
+0,3,male,51,0,0,7.0542,S,Mr. Johan Svensson,Lundahl,1,Middle-Aged,Single,7.0542
+1,1,male,32,0,0,30.5,C,Dr. Max,Stahelin-Maeglin,1,Adult,Single,30.5
+0,1,male,28,0,0,14.4542,S,Mr. William Henry Marsh,Parr,1,Adult,Single,14.4542
+0,3,female,9,3,2,27.9,S,Miss. Mabel,Skoog,6,Child,Large Family,4.6499999999999995
+1,2,female,28,0,0,13.0,S,Miss. Mary,Davis,1,Adult,Single,13.0
+0,3,male,32,0,0,7.925,S,Mr. Antti Gustaf,Leinonen,1,Adult,Single,7.925
+0,2,male,31,1,1,26.25,S,Mr. Harvey,Collyer,3,Adult,Small Family,8.75
+0,3,female,41,0,5,39.6875,S,Mrs. Juha,Panula,6,Middle-Aged,Large Family,6.614583333333333
+0,3,male,28,1,0,16.1,S,Mr. Percival,Thorneycroft,2,Adult,Small Family,8.05
+0,3,male,20,0,0,7.8542,S,Mr. Hans Peder,Jensen,1,Teen,Single,7.8542
+1,1,female,24,0,0,69.3,C,Mlle. Emma,Sagesser,1,Adult,Single,69.3
+0,3,female,2,3,2,27.9,S,Miss. Margit Elizabeth,Skoog,6,Child,Large Family,4.6499999999999995
+1,3,male,28,0,0,56.4958,S,Mr. Choong,Foo,1,Adult,Single,56.4958
+1,3,female,0,2,1,19.2583,C,Miss. Eugenie,Baclini,4,,Large Family,4.814575
+1,1,male,48,1,0,76.7292,C,Mr. Henry Sleeper,Harper,2,Middle-Aged,Small Family,38.3646
+0,3,male,19,0,0,7.8958,S,Mr. Liudevit,Cor,1,Teen,Single,7.8958
+1,1,male,56,0,0,35.5,C,Col. Oberst Alfons,Simonius-Blumer,1,Middle-Aged,Single,35.5
+0,3,male,28,0,0,7.55,S,Mr. Edward,Willey,1,Adult,Single,7.55
+1,3,female,23,0,0,7.55,S,Miss. Amy Zillah Elsie,Stanley,1,Adult,Single,7.55
+0,3,male,28,0,0,7.8958,S,Mr. Mito,Mitkoff,1,Adult,Single,7.8958
+1,2,female,18,0,1,23.0,S,Miss. Elsie,Doling,2,Teen,Small Family,11.5
+0,3,male,21,0,0,8.4333,S,Mr. Johannes Halvorsen,Kalvik,1,Adult,Single,8.4333
+1,3,female,28,0,0,7.8292,Q,"Miss. Hanora ""Norah""",O'Leary,1,Adult,Single,7.8292
+0,3,female,18,0,0,6.75,Q,"Miss. Hanora ""Nora""",Hegarty,1,Teen,Single,6.75
+0,2,male,24,2,0,73.5,S,Mr. Leonard Mark,Hickman,3,Adult,Small Family,24.5
+0,3,male,28,0,0,7.8958,S,Mr. Alexander,Radeff,1,Adult,Single,7.8958
+0,3,female,32,1,1,15.5,Q,Mrs. John,Bourke,3,Adult,Small Family,5.166666666666667
+0,2,male,23,0,0,13.0,S,Mr. George Floyd,Eitemiller,1,Adult,Single,13.0
+0,1,male,58,0,2,113.275,C,Mr. Arthur Webster,Newell,3,Middle-Aged,Small Family,37.75833333333333
+1,1,male,50,2,0,133.65,S,Dr. Henry William,Frauenthal,3,Middle-Aged,Small Family,44.550000000000004
+0,3,male,40,0,0,7.225,C,Mr. Mohamed,Badt,1,Adult,Single,7.225
+0,1,male,47,0,0,25.5875,S,Mr. Edward Pomeroy,Colley,1,Middle-Aged,Single,25.5875
+0,3,male,36,0,0,7.4958,S,Mr. Peju,Coleff,1,Adult,Single,7.4958
+1,3,male,20,1,0,7.925,S,Mr. Eino William,Lindqvist,2,Teen,Small Family,3.9625
+0,2,male,32,2,0,73.5,S,Mr. Lewis,Hickman,3,Adult,Small Family,24.5
+0,2,male,25,0,0,13.0,S,Mr. Reginald Fenton,Butler,1,Adult,Single,13.0
+0,3,male,28,0,0,7.775,S,Mr. Knud Paust,Rommetvedt,1,Adult,Single,7.775
+0,3,male,43,0,0,8.05,S,Mr. Jacob,Cook,1,Middle-Aged,Single,8.05
+1,1,female,28,1,0,52.0,S,Mrs. Elmer Zebley,Taylor,2,Adult,Small Family,26.0
+1,2,female,40,1,1,39.0,S,Mrs. Thomas William Solomon,Brown,3,Adult,Small Family,13.0
+0,1,male,31,1,0,52.0,S,Mr. Thornton,Davidson,2,Adult,Small Family,26.0
+0,2,male,70,0,0,10.5,S,Mr. Henry Michael,Mitchell,1,Senior,Single,10.5
+1,2,male,31,0,0,13.0,S,Mr. Charles,Wilhelms,1,Adult,Single,13.0
+0,2,male,28,0,0,14.4542,S,Mr. Ennis Hastings,Watson,1,Adult,Single,14.4542
+0,3,male,18,0,0,7.775,S,Mr. Gustaf Hjalmar,Edvardsson,1,Teen,Single,7.775
+0,3,male,24,0,0,8.05,S,Mr. Frederick Charles,Sawyer,1,Adult,Single,8.05
+1,3,female,18,0,0,9.8417,S,Miss. Anna Sofia,Turja,1,Teen,Single,9.8417
+0,3,female,43,1,6,46.9,S,Mrs. Frederick,Goodwin,8,Middle-Aged,Large Family,5.8625
+1,1,male,36,0,1,512.3292,C,Mr. Thomas Drake Martinez,Cardeza,2,Adult,Small Family,256.1646
+0,3,female,28,0,0,8.1375,Q,Miss. Katie,Peters,1,Adult,Single,8.1375
+1,1,male,27,0,0,76.7292,C,Mr. Hammad,Hassab,1,Adult,Single,76.7292
+0,3,male,20,0,0,9.225,S,Mr. Thor Anderson,Olsvigen,1,Teen,Single,9.225
+0,3,male,14,5,2,46.9,S,Mr. Charles Edward,Goodwin,8,Teen,Large Family,5.8625
+0,2,male,60,1,1,39.0,S,Mr. Thomas William Solomon,Brown,3,Middle-Aged,Small Family,13.0
+0,2,male,25,1,2,41.5792,C,Mr. Joseph Philippe Lemercier,Laroche,4,Adult,Large Family,10.3948
+0,3,male,14,4,1,39.6875,S,Mr. Jaako Arnold,Panula,6,Teen,Large Family,6.614583333333333
+0,3,male,19,0,0,10.1708,S,Mr. Branko,Dakic,1,Teen,Single,10.1708
+0,3,male,18,0,0,7.7958,S,Mr. Eberhard Thelander,Fischer,1,Teen,Single,7.7958
+1,1,female,15,0,1,211.3375,S,Miss. Georgette Alexandra,Madill,2,Teen,Small Family,105.66875
+1,1,male,31,1,0,57.0,S,Mr. Albert Adrian,Dick,2,Adult,Small Family,28.5
+1,3,female,4,0,1,13.4167,C,Miss. Manca,Karun,2,Child,Small Family,6.70835
+1,3,male,28,0,0,56.4958,S,Mr. Ali,Lam,1,Adult,Single,56.4958
+0,3,male,25,0,0,7.225,C,Mr. Khalil,Saad,1,Adult,Single,7.225
+0,1,male,60,0,0,26.55,S,Col. John,Weir,1,Middle-Aged,Single,26.55
+0,2,male,52,0,0,13.5,S,Mr. Charles Henry,Chapman,1,Middle-Aged,Single,13.5
+0,3,male,44,0,0,8.05,S,Mr. James,Kelly,1,Middle-Aged,Single,8.05
+1,3,female,28,0,0,7.7333,Q,"Miss. Katherine ""Katie""",Mullens,1,Adult,Single,7.7333
+0,1,male,49,1,1,110.8833,C,Mr. John Borland,Thayer,3,Middle-Aged,Small Family,36.9611
+0,3,male,42,0,0,7.65,S,Mr. Adolf Mathias Nicolai Olsen,Humblen,1,Middle-Aged,Single,7.65
+1,1,female,18,1,0,227.525,C,Mrs. John Jacob,Astor,2,Teen,Small Family,113.7625
+1,1,male,35,0,0,26.2875,S,Mr. Spencer Victor,Silverthorne,1,Adult,Single,26.2875
+0,3,female,18,0,1,14.4542,C,Miss. Saiide,Barbara,2,Teen,Small Family,7.2271
+0,3,male,25,0,0,7.7417,Q,Mr. Martin,Gallagher,1,Adult,Single,7.7417
+0,3,male,26,1,0,7.8542,S,Mr. Henrik Juul,Hansen,2,Adult,Small Family,3.9271
+0,2,male,39,0,0,26.0,S,Mr. Henry Samuel,Morley,1,Adult,Single,26.0
+1,2,female,45,0,0,13.5,S,"Mrs. Florence ""Fannie""",Kelly,1,Middle-Aged,Single,13.5
+1,1,male,42,0,0,26.2875,S,Mr. Edward Pennington,Calderhead,1,Middle-Aged,Single,26.2875
+1,1,female,22,0,0,151.55,S,Miss. Alice,Cleaver,1,Adult,Single,151.55
+1,3,male,28,1,1,15.2458,C,Master. Halim Gonios,Moubarek,3,Adult,Small Family,5.081933333333333
+1,1,female,24,0,0,49.5042,C,Mlle. Berthe Antonine,Mayne,1,Adult,Single,49.5042
+0,1,male,28,0,0,26.55,S,Mr. Herman,Klaber,1,Adult,Single,26.55
+1,1,male,48,1,0,52.0,S,Mr. Elmer Zebley,Taylor,2,Middle-Aged,Small Family,26.0
+0,3,male,29,0,0,9.4833,S,Mr. August Viktor,Larsson,1,Adult,Single,9.4833
+0,2,male,52,0,0,13.0,S,Mr. Samuel,Greenberg,1,Middle-Aged,Single,13.0
+0,3,male,19,0,0,7.65,S,Mr. Peter Andreas Lauritz Andersen,Soholt,1,Teen,Single,7.65
+1,1,female,38,0,0,227.525,C,Miss. Caroline Louise,Endres,1,Adult,Single,227.525
+1,2,female,27,0,0,10.5,S,"Miss. Edwina Celia ""Winnie""",Troutt,1,Adult,Single,10.5
+0,3,male,28,0,0,15.5,Q,Mr. Michael,McEvoy,1,Adult,Single,15.5
+0,3,male,33,0,0,7.775,S,Mr. Malkolm Joackim,Johnson,1,Adult,Single,7.775
+1,2,female,6,0,1,33.0,S,"Miss. Annie Jessie ""Nina""",Harper,2,Child,Small Family,16.5
+0,3,male,17,1,0,7.0542,S,Mr. Svend Lauritz,Jensen,2,Teen,Small Family,3.5271
+0,2,male,34,0,0,13.0,S,Mr. William Henry,Gillespie,1,Adult,Single,13.0
+0,2,male,50,0,0,13.0,S,Mr. Henry Price,Hodges,1,Middle-Aged,Single,13.0
+1,1,male,27,1,0,53.1,S,Mr. Norman Campbell,Chambers,2,Adult,Small Family,26.55
+0,3,male,20,0,0,8.6625,S,Mr. Luka,Oreskovic,1,Teen,Single,8.6625
+1,2,female,30,3,0,21.0,S,Mrs. Peter Henry,Renouf,4,Adult,Large Family,5.25
+1,3,female,28,0,0,7.7375,Q,Miss. Margareth,Mannion,1,Adult,Single,7.7375
+0,2,male,25,1,0,26.0,S,Mr. Kurt Arnold Gottfrid,Bryhl,2,Adult,Small Family,13.0
+0,3,female,25,1,0,7.925,S,Miss. Pieta Sofia,Ilmakangas,2,Adult,Small Family,3.9625
+1,1,female,29,0,0,211.3375,S,Miss. Elisabeth Walton,Allen,1,Adult,Single,211.3375
+0,3,male,11,0,0,18.7875,C,Mr. Houssein G N,Hassan,1,Child,Single,18.7875
+0,2,male,28,0,0,14.4542,S,Mr. Robert J,Knight,1,Adult,Single,14.4542
+0,2,male,23,0,0,13.0,S,Mr. William John,Berriman,1,Adult,Single,13.0
+0,2,male,23,0,0,13.0,S,Mr. Moses Aaron,Troupiansky,1,Adult,Single,13.0
+0,3,male,28,0,0,16.1,S,Mr. Leslie,Williams,1,Adult,Single,16.1
+0,3,female,48,1,3,34.375,S,Mrs. Edward,Ford,5,Middle-Aged,Large Family,6.875
+1,1,male,35,0,0,512.3292,C,Mr. Gustave J,Lesurer,1,Adult,Single,512.3292
+0,3,male,28,0,0,7.8958,S,Mr. Kanio,Ivanoff,1,Adult,Single,7.8958
+0,3,male,28,0,0,7.8958,S,Mr. Minko,Nankoff,1,Adult,Single,7.8958
+1,1,male,28,0,0,30.0,S,Mr. Walter James,Hawksford,1,Adult,Single,30.0
+0,1,male,36,1,0,78.85,S,Mr. Tyrell William,Cavendish,2,Adult,Small Family,39.425
+1,1,female,21,2,2,262.375,C,"Miss. Susan Parker ""Suzette""",Ryerson,5,Adult,Large Family,52.475
+0,3,male,24,1,0,16.1,S,Mr. Neal,McNamee,2,Adult,Small Family,8.05
+1,3,male,31,0,0,7.925,S,Mr. Juho,Stranden,1,Adult,Single,7.925
+0,1,male,70,1,1,71.0,S,Capt. Edward Gifford,Crosby,3,Senior,Small Family,23.666666666666668
+0,3,male,16,1,1,20.25,S,Mr. Rossmore Edward,Abbott,3,Teen,Small Family,6.75
+1,2,female,30,0,0,13.0,S,Miss. Anna,Sinkkonen,1,Adult,Single,13.0
+0,1,male,19,1,0,53.1,S,Mr. Daniel Warner,Marvin,2,Teen,Small Family,26.55
+0,3,male,31,0,0,7.75,Q,Mr. Michael,Connaghton,1,Adult,Single,7.75
+1,2,female,4,1,1,23.0,S,Miss. Joan,Wells,3,Child,Small Family,7.666666666666667
+1,3,male,6,0,1,12.475,S,Master. Meier,Moor,2,Child,Small Family,6.2375
+0,3,male,33,0,0,9.5,S,Mr. Johannes Joseph,Vande Velde,1,Adult,Single,9.5
+0,3,male,23,0,0,7.8958,S,Mr. Lalio,Jonkoff,1,Adult,Single,7.8958
+1,2,female,48,1,2,65.0,S,Mrs. Samuel,Herman,4,Middle-Aged,Large Family,16.25
+1,2,male,0,1,1,14.5,S,Master. Viljo,Hamalainen,3,,Small Family,4.833333333333333
+0,3,male,28,0,0,7.7958,S,Mr. August Sigfrid,Carlsson,1,Adult,Single,7.7958
+0,2,male,18,0,0,11.5,S,Mr. Percy Andrew,Bailey,1,Teen,Single,11.5
+0,3,male,34,0,0,8.05,S,Mr. Thomas Leonard,Theobald,1,Adult,Single,8.05
+1,1,female,33,0,0,86.5,S,the Countess. of,Rothes,1,Adult,Single,86.5
+0,3,male,28,0,0,14.5,S,Mr. John,Garfirth,1,Adult,Single,14.5
+0,3,male,41,0,0,7.125,S,Mr. Iisakki Antino Aijo,Nirva,1,Middle-Aged,Single,7.125
+1,3,male,20,0,0,7.2292,C,Mr. Hanna Assi,Barah,1,Teen,Single,7.2292
+1,1,female,36,1,2,120.0,S,Mrs. William Ernest,Carter,4,Adult,Large Family,30.0
+0,3,male,16,0,0,7.775,S,Mr. Hans Linus,Eklund,1,Teen,Single,7.775
+1,1,female,51,1,0,77.9583,S,Mrs. John C,Hogeboom,2,Middle-Aged,Small Family,38.97915
+0,1,male,28,0,0,39.6,C,Dr. Arthur Jackson,Brewe,1,Adult,Single,39.6
+0,3,female,30,0,0,7.75,Q,Miss. Mary,Mangan,1,Adult,Single,7.75
+0,3,male,28,1,0,24.15,Q,Mr. Daniel J,Moran,2,Adult,Small Family,12.075
+0,3,male,32,0,0,8.3625,S,Mr. Daniel Danielsen,Gronnestad,1,Adult,Single,8.3625
+0,3,male,24,0,0,9.5,S,Mr. Rene Aime,Lievens,1,Adult,Single,9.5
+0,3,male,48,0,0,7.8542,S,Mr. Niels Peder,Jensen,1,Middle-Aged,Single,7.8542
+0,2,female,57,0,0,10.5,S,Mrs.,Mack,1,Middle-Aged,Single,10.5
+0,3,male,28,0,0,7.225,C,Mr. Dibo,Elias,1,Adult,Single,7.225
+1,2,female,54,1,3,23.0,S,Mrs. Elizabeth,Hocking,5,Middle-Aged,Large Family,4.6
+0,3,male,18,0,0,7.75,S,Mr. Pehr Fabian Oliver Malkolm,Myhrman,1,Teen,Single,7.75
+0,3,male,28,0,0,7.75,Q,Mr. Roger,Tobin,1,Adult,Single,7.75
+1,3,female,5,0,0,12.475,S,Miss. Virginia Ethel,Emanuel,1,Child,Single,12.475
+0,3,male,28,0,0,7.7375,Q,Mr. Thomas J,Kilgannon,1,Adult,Single,7.7375
+1,1,female,43,0,1,211.3375,S,Mrs. Edward Scott,Robert,2,Middle-Aged,Small Family,105.66875
+1,3,female,13,0,0,7.2292,C,Miss. Banoura,Ayoub,1,Teen,Single,7.2292
+1,1,female,17,1,0,57.0,S,Mrs. Albert Adrian,Dick,2,Teen,Small Family,28.5
+0,1,male,29,0,0,30.0,S,Mr. Milton Clyde,Long,1,Adult,Single,30.0
+0,3,male,28,1,2,23.45,S,Mr. Andrew G,Johnston,4,Adult,Large Family,5.8625
+0,3,male,25,0,0,7.05,S,Mr. William,Ali,1,Adult,Single,7.05
+0,3,male,25,0,0,7.25,S,Mr. Abraham,Harmer,1,Adult,Single,7.25
+1,3,female,18,0,0,7.4958,S,Miss. Anna Sofia,Sjoblom,1,Teen,Single,7.4958
+0,3,male,8,4,1,29.125,Q,Master. George Hugh,Rice,6,Child,Large Family,4.854166666666667
+1,3,male,1,1,2,20.575,S,Master. Bertram Vere,Dean,4,Child,Large Family,5.14375
+0,1,male,46,0,0,79.2,C,Mr. Benjamin,Guggenheim,1,Middle-Aged,Single,79.2
+0,3,male,28,0,0,7.75,Q,"Mr. Andrew ""Andy""",Keane,1,Adult,Single,7.75
+0,2,male,16,0,0,26.0,S,Mr. Alfred,Gaskell,1,Teen,Single,26.0
+0,3,female,28,8,2,69.55,S,Miss. Stella Anna,Sage,11,Adult,Large Family,6.322727272727272
+0,1,male,28,0,0,30.6958,C,Mr. William Fisher,Hoyt,1,Adult,Single,30.6958
+0,3,male,25,0,0,7.8958,S,Mr. Ristiu,Dantcheff,1,Adult,Single,7.8958
+0,2,male,39,0,0,13.0,S,Mr. Richard,Otter,1,Adult,Single,13.0
+1,1,female,49,0,0,25.9292,S,Dr. Alice,Leader,1,Middle-Aged,Single,25.9292
+1,3,female,31,0,0,8.6833,S,Mrs. Mara,Osman,1,Adult,Single,8.6833
+0,3,male,30,0,0,7.2292,C,Mr. Yousseff,Ibrahim Shawah,1,Adult,Single,7.2292
+0,3,female,30,1,1,24.15,S,Mrs. Jean Baptiste,Van Impe,3,Adult,Small Family,8.049999999999999
+0,2,male,34,0,0,13.0,S,Mr. Martin,Ponesell,1,Adult,Single,13.0
+1,2,female,31,1,1,26.25,S,Mrs. Harvey,Collyer,3,Adult,Small Family,8.75
+1,1,male,11,1,2,120.0,S,Master. William Thornton II,Carter,4,Child,Large Family,30.0
+1,3,male,0,0,1,8.5167,C,Master. Assad Alexander,Thomas,2,,Small Family,4.25835
+1,3,male,27,0,0,6.975,S,Mr. Oskar Arvid,Hedman,1,Adult,Single,6.975
+0,3,male,31,0,0,7.775,S,Mr. Karl Johan,Johansson,1,Adult,Single,7.775
+0,1,male,39,0,0,14.4542,S,Mr. Thomas Jr,Andrews,1,Adult,Single,14.4542
+0,3,female,18,0,0,7.775,S,Miss. Ellen Natalia,Pettersson,1,Teen,Single,7.775
+0,2,male,39,0,0,13.0,S,Mr. August,Meyer,1,Adult,Single,13.0
+1,1,female,33,1,0,53.1,S,Mrs. Norman Campbell,Chambers,2,Adult,Small Family,26.55
+0,3,male,26,0,0,7.8875,S,Mr. William,Alexander,1,Adult,Single,7.8875
+0,3,male,39,0,0,24.15,S,Mr. James,Lester,1,Adult,Single,24.15
+0,2,male,35,0,0,10.5,S,Mr. Richard James,Slemen,1,Adult,Single,10.5
+0,3,female,6,4,2,31.275,S,Miss. Ebba Iris Alfrida,Andersson,7,Child,Large Family,4.4678571428571425
+0,3,male,30,0,0,8.05,S,Mr. Ernest Portage,Tomlin,1,Adult,Single,8.05
+0,1,male,28,0,0,14.4542,S,Mr. Richard,Fry,1,Adult,Single,14.4542
+0,3,female,23,0,0,7.925,S,Miss. Wendla Maria,Heininen,1,Adult,Single,7.925
+0,2,male,31,1,1,37.0042,C,Mr. Albert,Mallet,3,Adult,Small Family,12.334733333333332
+0,3,male,43,0,0,6.45,S,Mr. John Fredrik Alexander,Holm,1,Middle-Aged,Single,6.45
+0,3,male,10,3,2,27.9,S,Master. Karl Thorsten,Skoog,6,Child,Large Family,4.6499999999999995
+1,1,female,52,1,1,93.5,S,Mrs. Charles Melville,Hays,3,Middle-Aged,Small Family,31.166666666666668
+1,3,male,27,0,0,8.6625,S,Mr. Nikola,Lulic,1,Adult,Single,8.6625
+0,1,male,38,0,0,14.4542,S,Jonkheer. John George,Reuchlin,1,Adult,Single,14.4542
+1,3,female,27,0,1,12.475,S,Mrs.,Moor,2,Adult,Small Family,6.2375
+0,3,male,2,4,1,39.6875,S,Master. Urho Abraham,Panula,6,Child,Large Family,6.614583333333333
+0,3,male,28,0,0,6.95,Q,Mr. John,Flynn,1,Adult,Single,6.95
+0,3,male,28,0,0,56.4958,S,Mr. Len,Lam,1,Adult,Single,56.4958
+1,2,male,1,0,2,37.0042,C,Master. Andre,Mallet,3,Child,Small Family,12.334733333333332
+1,3,male,28,0,0,7.75,Q,Mr. Thomas Joseph,McCormack,1,Adult,Single,7.75
+1,1,female,62,0,0,80.0,S,Mrs. George Nelson,Stone,1,Senior,Single,80.0
+1,3,female,15,1,0,14.4542,C,Mrs. Antoni,Yasbeck,2,Teen,Small Family,7.2271
+1,2,male,0,1,1,18.75,S,Master. George Sibley,Richards,3,,Small Family,6.25
+0,3,male,28,0,0,7.2292,C,Mr. Amin,Saad,1,Adult,Single,7.2292
+0,3,male,23,0,0,7.8542,S,Mr. Albert,Augustsson,1,Adult,Single,7.8542
+0,3,male,18,0,0,8.3,S,Mr. Owen George,Allum,1,Teen,Single,8.3
+1,1,female,39,1,1,83.1583,C,Miss. Sara Rebecca,Compton,3,Adult,Small Family,27.71943333333333
+0,3,male,21,0,0,8.6625,S,Mr. Jakob,Pasic,1,Adult,Single,8.6625
+0,3,male,28,0,0,8.05,S,Mr. Maurice,Sirota,1,Adult,Single,8.05
+1,3,male,32,0,0,56.4958,S,Mr. Chang,Chip,1,Adult,Single,56.4958
+1,1,male,28,0,0,29.7,C,Mr. Pierre,Marechal,1,Adult,Single,29.7
+0,3,male,20,0,0,7.925,S,Mr. Ilmari Rudolf,Alhomaki,1,Teen,Single,7.925
+0,2,male,16,0,0,10.5,S,Mr. Thomas Charles,Mudd,1,Teen,Single,10.5
+1,1,female,30,0,0,31.0,C,Miss. Augusta,Serepeca,1,Adult,Single,31.0
+0,3,male,34,0,0,6.4375,C,Mr. Peter L,Lemberopolous,1,Adult,Single,6.4375
+0,3,male,17,0,0,8.6625,S,Mr. Jeso,Culumovic,1,Teen,Single,8.6625
+0,3,male,42,0,0,7.55,S,Mr. Anthony,Abbing,1,Middle-Aged,Single,7.55
+0,3,male,28,8,2,69.55,S,Mr. Douglas Bullen,Sage,11,Adult,Large Family,6.322727272727272
+0,3,male,35,0,0,7.8958,C,Mr. Marin,Markoff,1,Adult,Single,7.8958
+0,2,male,28,0,1,33.0,S,Rev. John,Harper,2,Adult,Small Family,16.5
+1,1,female,28,1,0,89.1042,C,Mrs. Samuel L,Goldenberg,2,Adult,Small Family,44.5521
+0,3,male,4,4,2,31.275,S,Master. Sigvard Harald Elias,Andersson,7,Child,Large Family,4.4678571428571425
+0,3,male,74,0,0,7.775,S,Mr. Johan,Svensson,1,Senior,Single,7.775
+0,3,female,9,1,1,15.2458,C,Miss. Nourelain,Boulos,3,Child,Small Family,5.081933333333333
+1,1,female,16,0,1,39.4,S,Miss. Mary Conover,Lines,2,Teen,Small Family,19.7
+0,2,female,44,1,0,26.0,S,Mrs. Ernest Courtenay,Carter,2,Middle-Aged,Small Family,13.0
+1,3,female,18,0,1,9.35,S,Mrs. Sam,Aks,2,Teen,Small Family,4.675
+1,1,female,45,1,1,164.8667,S,Mrs. George Dennick,Wick,3,Middle-Aged,Small Family,54.95556666666667
+1,1,male,51,0,0,26.55,S,Mr. Peter Denis,Daly,1,Middle-Aged,Single,26.55
+1,3,female,24,0,3,19.2583,C,Mrs. Solomon,Baclini,4,Adult,Large Family,4.814575
+0,3,male,28,0,0,7.2292,C,Mr. Raihed,Razi,1,Adult,Single,7.2292
+0,3,male,41,2,0,14.1083,S,Mr. Claus Peter,Hansen,3,Middle-Aged,Small Family,4.702766666666666
+0,2,male,21,1,0,11.5,S,Mr. Frederick Edward,Giles,2,Adult,Small Family,5.75
+1,1,female,48,0,0,25.9292,S,Mrs. Frederick Joel,Swift,1,Middle-Aged,Single,25.9292
+0,3,female,28,8,2,69.55,S,"Miss. Dorothy Edith ""Dolly""",Sage,11,Adult,Large Family,6.322727272727272
+0,2,male,24,0,0,13.0,S,Mr. John William,Gill,1,Adult,Single,13.0
+1,2,female,42,0,0,13.0,S,Mrs.,Bystrom,1,Middle-Aged,Single,13.0
+1,2,female,27,1,0,13.8583,C,Miss. Asuncion,Duran y More,2,Adult,Small Family,6.92915
+0,1,male,31,0,0,50.4958,S,Mr. Washington Augustus II,Roebling,1,Adult,Single,50.4958
+0,3,male,28,0,0,9.5,S,Mr. Philemon,van Melkebeke,1,Adult,Single,9.5
+1,3,male,4,1,1,11.1333,S,Master. Harold Theodor,Johnson,3,Child,Small Family,3.7111
+0,3,male,26,0,0,7.8958,S,Mr. Cerin,Balkic,1,Adult,Single,7.8958
+1,1,female,47,1,1,52.5542,S,Mrs. Richard Leonard,Beckwith,3,Middle-Aged,Small Family,17.518066666666666
+0,1,male,33,0,0,5.0,S,Mr. Frans Olof,Carlsson,1,Adult,Single,5.0
+0,3,male,47,0,0,9.0,S,Mr. Victor,Vander Cruyssen,1,Middle-Aged,Single,9.0
+1,2,female,28,1,0,24.0,C,Mrs. Samuel,Abelson,2,Adult,Small Family,12.0
+1,3,female,15,0,0,7.225,C,"Miss. Adele Kiamie ""Jane""",Najib,1,Teen,Single,7.225
+0,3,male,20,0,0,9.8458,S,Mr. Alfred Ossian,Gustafsson,1,Teen,Single,9.8458
+0,3,male,19,0,0,7.8958,S,Mr. Nedelio,Petroff,1,Teen,Single,7.8958
+0,3,male,28,0,0,7.8958,S,Mr. Kristo,Laleff,1,Adult,Single,7.8958
+1,1,female,56,0,1,83.1583,C,Mrs. Thomas Jr,Potter,2,Middle-Aged,Small Family,41.57915
+1,2,female,25,0,1,26.0,S,Mrs. William,Shelley,2,Adult,Small Family,13.0
+0,3,male,33,0,0,7.8958,S,Mr. Johann,Markun,1,Adult,Single,7.8958
+0,3,female,22,0,0,10.5167,S,Miss. Gerda Ulrika,Dahlberg,1,Adult,Single,10.5167
+0,2,male,28,0,0,10.5,S,Mr. Frederick James,Banfield,1,Adult,Single,10.5
+0,3,male,25,0,0,7.05,S,Mr. Henry Jr,Sutehall,1,Adult,Single,7.05
+0,3,female,39,0,5,29.125,Q,Mrs. William,Rice,6,Adult,Large Family,4.854166666666667
+0,2,male,27,0,0,13.0,S,Rev. Juozas,Montvila,1,Adult,Single,13.0
+1,1,female,19,0,0,30.0,S,Miss. Margaret Edith,Graham,1,Teen,Single,30.0
+0,3,female,28,1,2,23.45,S,"Miss. Catherine Helen ""Carrie""",Johnston,4,Adult,Large Family,5.8625
+1,1,male,26,0,0,30.0,C,Mr. Karl Howell,Behr,1,Adult,Single,30.0
+0,3,male,32,0,0,7.75,Q,Mr. Patrick,Dooley,1,Adult,Single,7.75
